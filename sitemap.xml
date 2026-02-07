@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://eatyay.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://eatyay.com/</loc>
+</url>
+<url>
+<loc>https://eatyay.com/apple-cinnamon-oatmeal-bake/</loc>
+<lastmod>2026-02-07T12:11:51+06:00</lastmod>
+<image:image>
+<image:loc>https://eatyay.com/media/posts/4/AppleOatmealCrisp.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://eatyay.com/the-best-keto-pecan-pie-3/</loc>
+<lastmod>2026-02-07T11:51:38+06:00</lastmod>
+<image:image>
+<image:loc>https://eatyay.com/media/posts/3/keto-rum-pecan-pie-8.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
