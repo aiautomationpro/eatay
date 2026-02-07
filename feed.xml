@@ -3,12 +3,36 @@
     <title>EatYay</title>
     <link href="https://eatyay.com/feed.xml" rel="self" />
     <link href="https://eatyay.com" />
-    <updated>2026-02-07T12:11:51+06:00</updated>
+    <updated>2026-02-07T12:33:40+06:00</updated>
     <author>
         <name>Mia Gomez</name>
     </author>
     <id>https://eatyay.com</id>
 
+    <entry>
+        <title>New Orleans Chicken Wings</title>
+        <author>
+            <name>Mia Gomez</name>
+        </author>
+        <link href="https://eatyay.com/new-orleans-chicken-wings/"/>
+        <id>https://eatyay.com/new-orleans-chicken-wings/</id>
+        <media:content url="https://eatyay.com/media/posts/5/Garlic-Parmesan-Chicken-Pasta.png" medium="image" />
+            <category term="Dinner"/>
+
+        <updated>2026-02-07T12:33:40+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://eatyay.com/media/posts/5/Garlic-Parmesan-Chicken-Pasta.png" alt="" />
+                    Today’s recipe is inspired by New Orleans Chicken Ribs I had at the Adelaide Central Markets a couple of weeks&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eatyay.com/media/posts/5/Garlic-Parmesan-Chicken-Pasta.png" class="type:primaryImage" alt="" /></p>
+                <p>Today’s recipe is inspired by New Orleans Chicken Ribs I had at the Adelaide Central Markets a couple of weeks ago when I visited during my book tour. Creole seasoned chicken ribs, chargrilled and sold in paper cones, ideal for eating with your hands while walking around looking at yet more food.<br><br>Here I am with JB and Stephen (RTM boss chef) at the Adelaide Central Markets, and there I am looking pretty darn pleased with myself, clutching the chicken ribs!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Apple Cinnamon Oatmeal Bake</title>
         <author>

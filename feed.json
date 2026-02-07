@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://eatyay.com/new-orleans-chicken-wings/",
+            "url": "https://eatyay.com/new-orleans-chicken-wings/",
+            "title": "New Orleans Chicken Wings",
+            "summary": "Today’s recipe is inspired by New Orleans Chicken Ribs I had at the Adelaide Central Markets a couple of weeks&hellip;",
+            "content_html": "<p>Today’s recipe is inspired by New Orleans Chicken Ribs I had at the Adelaide Central Markets a couple of weeks ago when I visited during my book tour. Creole seasoned chicken ribs, chargrilled and sold in paper cones, ideal for eating with your hands while walking around looking at yet more food.<br><br>Here I am with JB and Stephen (RTM boss chef) at the Adelaide Central Markets, and there I am looking pretty darn pleased with myself, clutching the chicken ribs!</p>",
+            "image": "https://eatyay.com/media/posts/5/Garlic-Parmesan-Chicken-Pasta.png",
+            "author": {
+                "name": "Mia Gomez"
+            },
+            "tags": [
+                   "Dinner"
+            ],
+            "date_published": "2026-02-07T12:33:40+06:00",
+            "date_modified": "2026-02-07T12:33:40+06:00"
+        },
+        {
             "id": "https://eatyay.com/apple-cinnamon-oatmeal-bake/",
             "url": "https://eatyay.com/apple-cinnamon-oatmeal-bake/",
             "title": "Apple Cinnamon Oatmeal Bake",
