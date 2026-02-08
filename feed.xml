@@ -3,12 +3,193 @@
     <title>EatYay</title>
     <link href="https://eatyay.com/feed.xml" rel="self" />
     <link href="https://eatyay.com" />
-    <updated>2026-02-08T12:20:51+06:00</updated>
+    <updated>2026-02-08T12:35:11+06:00</updated>
     <author>
         <name>Mia Gomez</name>
     </author>
     <id>https://eatyay.com</id>
 
+    <entry>
+        <title>French Farmhouse Breakfast Cake</title>
+        <author>
+            <name>Mia Gomez</name>
+        </author>
+        <link href="https://eatyay.com/french-farmhouse-breakfast-cake/"/>
+        <id>https://eatyay.com/french-farmhouse-breakfast-cake/</id>
+        <media:content url="https://eatyay.com/media/posts/11/French-Farmhouse-Breakfast-Cake.png" medium="image" />
+            <category term="Breakfast"/>
+
+        <updated>2026-02-08T12:35:11+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://eatyay.com/media/posts/11/French-Farmhouse-Breakfast-Cake.png" alt="" />
+                    Craving a cozy, old-world breakfast straight from the French countryside? I absolutely adore making this French Farmhouse Breakfast Cake, a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eatyay.com/media/posts/11/French-Farmhouse-Breakfast-Cake.png" class="type:primaryImage" alt="" /></p>
+                <article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:9bc3b43a-c213-42ec-8461-bb7e0228fbed-1" data-testid="conversation-turn-4" data-scroll-anchor="false" data-turn="assistant">
+<div class="text-base my-auto mx-auto [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="278e680d-7797-4964-b43e-183b32249b4b" data-message-model-slug="gpt-5-2">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="198" data-end="614">Craving a cozy, old-world breakfast straight from the French countryside? I absolutely adore making this <strong data-start="303" data-end="338">French Farmhouse Breakfast Cake</strong>, a simple yet elegant cake that feels rustic, comforting, and beautifully homemade. This classic-style breakfast cake is lightly sweetened, rich with buttery flavor, and delicately spiced with nutmeg—perfect for slow mornings, brunch tables, or a warm slice alongside coffee.</p>
+<p data-start="616" data-end="870">Unlike overly frosted desserts, this farmhouse cake shines in its simplicity. Made with pantry staples and finished with a gentle dusting of powdered sugar, it’s the kind of recipe I turn to when I want something timeless, unfussy, and deeply satisfying.</p>
+<h2 data-start="872" data-end="891">Ingredients List</h2>
+<h3 data-start="893" data-end="913">Cake Ingredients</h3>
+<ul data-start="915" data-end="1170">
+<li data-start="915" data-end="945">
+<p data-start="917" data-end="945">1 ½ cups all-purpose flour</p>
+</li>
+<li data-start="946" data-end="975">
+<p data-start="948" data-end="975">2 teaspoons baking powder</p>
+</li>
+<li data-start="976" data-end="1004">
+<p data-start="978" data-end="1004">½ teaspoon ground nutmeg</p>
+</li>
+<li data-start="1005" data-end="1024">
+<p data-start="1007" data-end="1024">¼ teaspoon salt</p>
+</li>
+<li data-start="1025" data-end="1076">
+<p data-start="1027" data-end="1076">14 tablespoons salted butter (room temperature)</p>
+</li>
+<li data-start="1077" data-end="1103">
+<p data-start="1079" data-end="1103">⅔ cup granulated sugar</p>
+</li>
+<li data-start="1104" data-end="1139">
+<p data-start="1106" data-end="1139">3 large eggs (room temperature)</p>
+</li>
+<li data-start="1140" data-end="1170">
+<p data-start="1142" data-end="1170">1 teaspoon vanilla extract</p>
+</li>
+</ul>
+<h3 data-start="1172" data-end="1189">For Finishing</h3>
+<ul data-start="1191" data-end="1222">
+<li data-start="1191" data-end="1222">
+<p data-start="1193" data-end="1222">Powdered sugar, for dusting</p>
+</li>
+</ul>
+<h2 data-start="1224" data-end="1249">Required Kitchen Tools</h2>
+<p data-start="1251" data-end="1401">When I prepare this French Farmhouse Breakfast Cake, having a few basic kitchen tools ready makes the process smooth and enjoyable. Here’s what I use:</p>
+<ol data-start="1403" data-end="1988">
+<li data-start="1403" data-end="1509">
+<p data-start="1406" data-end="1509"><strong data-start="1406" data-end="1422">Mixing Bowls</strong>: One medium bowl for dry ingredients and one large bowl for creaming butter and sugar.</p>
+</li>
+<li data-start="1510" data-end="1609">
+<p data-start="1513" data-end="1609"><strong data-start="1513" data-end="1542">Hand Mixer or Stand Mixer</strong>: Essential for achieving a light, fluffy butter and sugar mixture.</p>
+</li>
+<li data-start="1610" data-end="1718">
+<p data-start="1613" data-end="1718"><strong data-start="1613" data-end="1642">Measuring Cups and Spoons</strong>: Accurate measurements ensure the cake bakes evenly with the perfect crumb.</p>
+</li>
+<li data-start="1719" data-end="1815">
+<p data-start="1722" data-end="1815"><strong data-start="1722" data-end="1734">Cake Pan</strong>: An 8-inch round or square pan works beautifully for this rustic breakfast cake.</p>
+</li>
+<li data-start="1816" data-end="1902">
+<p data-start="1819" data-end="1902"><strong data-start="1819" data-end="1840">Whisk and Spatula</strong>: For combining dry ingredients and folding the batter gently.</p>
+</li>
+<li data-start="1903" data-end="1988">
+<p data-start="1906" data-end="1988"><strong data-start="1906" data-end="1925">Fine Mesh Sieve</strong>: Ideal for dusting powdered sugar evenly over the cooled cake.</p>
+</li>
+</ol>
+<p data-start="1990" data-end="2111">Having these tools prepared ahead of time sets me up for a relaxed baking experience and a flawless farmhouse-style cake.</p>
+<p data-start="2118" data-end="2164" data-is-last-node="" data-is-only-node=""><span style="color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.60181em; font-weight: bold; letter-spacing: -0.54px;">Cake Preparation</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:9bc3b43a-c213-42ec-8461-bb7e0228fbed-2" data-testid="conversation-turn-6" data-scroll-anchor="false" data-turn="assistant">
+<div class="text-base my-auto mx-auto [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="b1920d97-373b-4049-9dca-574c0313df5c" data-message-model-slug="gpt-5-2">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="107" data-end="384">Preparing this French Farmhouse Breakfast Cake is one of my favorite parts because it comes together effortlessly while filling the kitchen with a warm, buttery aroma. I always start by organizing my ingredients and bringing everything to room temperature for the best results.</p>
+<h3 data-start="386" data-end="416">Mixing the Dry Ingredients</h3>
+<p data-start="418" data-end="754">In a medium mixing bowl, I whisk together the all-purpose flour, baking powder, ground nutmeg, and salt. This step ensures the leavening agent and spices are evenly distributed throughout the cake, giving it a consistent rise and a subtle, cozy flavor in every bite. Once mixed, I set the bowl aside while I work on the wet ingredients.</p>
+<h3 data-start="756" data-end="789">Creaming the Butter and Sugar</h3>
+<p data-start="791" data-end="1086">In a large bowl, I cream the room-temperature salted butter and granulated sugar together using a hand mixer. I beat the mixture for about 3–4 minutes until it becomes light, pale, and fluffy. This step is key to achieving the tender, soft crumb that defines a traditional French farmhouse cake.</p>
+<p data-start="1088" data-end="1379">Next, I add the eggs one at a time, beating well after each addition. This helps the batter emulsify properly and creates a smooth, rich texture. Once all the eggs are incorporated, I mix in the vanilla extract, which adds a gentle sweetness without overpowering the cake’s rustic character.</p>
+<p data-start="1381" data-end="1596">With the wet ingredients ready, I slowly add the dry mixture to the bowl, mixing on low speed just until everything is combined. I’m careful not to overmix, as that can make the cake dense instead of light and airy.</p>
+<p data-start="1603" data-end="1650" data-is-last-node="" data-is-only-node=""><span style="color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.60181em; font-weight: bold; letter-spacing: -0.54px;">Baking the French Farmhouse Breakfast Cake</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:9bc3b43a-c213-42ec-8461-bb7e0228fbed-3" data-testid="conversation-turn-8" data-scroll-anchor="false" data-turn="assistant">
+<div class="text-base my-auto mx-auto [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="2db675c4-b845-4334-879b-b00a886109eb" data-message-model-slug="gpt-5-2">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="134" data-end="309">Baking this cake is where the magic truly happens. As it bakes, the butter and nutmeg create an irresistible aroma that makes this recipe feel like a true countryside classic.</p>
+<h3 data-start="311" data-end="337">Preparing the Cake Pan</h3>
+<p data-start="339" data-end="601">Before pouring in the batter, I preheat my oven to <strong data-start="390" data-end="407">350°F (175°C)</strong>. I generously butter my cake pan and lightly dust it with flour, tapping out any excess. This simple step ensures the cake releases easily after baking and keeps its lovely rustic shape intact.</p>
+<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/11/French-Farmhouse-Breakfast-Cake-2.png" alt="" width="1440" height="1440" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/11/responsive/French-Farmhouse-Breakfast-Cake-2-xs.png 300w ,https://eatyay.com/media/posts/11/responsive/French-Farmhouse-Breakfast-Cake-2-sm.png 480w ,https://eatyay.com/media/posts/11/responsive/French-Farmhouse-Breakfast-Cake-2-md.png 768w"></figure>
+<h3 data-start="603" data-end="634">Baking Time and Temperature</h3>
+<p data-start="636" data-end="890">I pour the batter evenly into the prepared pan and smooth the top with a spatula. The cake goes into the preheated oven and bakes for <strong data-start="770" data-end="787">40–45 minutes</strong>, or until the top turns a light golden color and a toothpick inserted into the center comes out clean.</p>
+<p data-start="892" data-end="1101">Halfway through baking, I like to rotate the pan to ensure even cooking. The cake slowly rises and develops a tender crumb with a lightly crisp edge—exactly what I look for in a farmhouse-style breakfast cake.</p>
+<p data-start="1103" data-end="1339">Once baked, I remove the pan from the oven and let the cake cool for about <strong data-start="1178" data-end="1192">15 minutes</strong>. Then, I carefully turn it out onto a wire rack to cool completely. Allowing the cake to cool properly helps it set and makes slicing much easier.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-(--header-height)" dir="auto" tabindex="-1" data-turn-id="74b7840a-8e37-48ee-9448-62d2cb925632" data-testid="conversation-turn-9" data-scroll-anchor="false" data-turn="user">
+<div class="text-base my-auto mx-auto pt-12 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="user" data-message-id="74b7840a-8e37-48ee-9448-62d2cb925632">
+<div class="flex w-full flex-col gap-1 empty:hidden items-end rtl:items-start">
+<div class="user-message-bubble-color corner-superellipse/1.1 relative rounded-[18px] px-4 py-1.5 data-[multiline]:py-3 max-w-[var(--user-chat-width,70%)]">
+<div> </div>
+<div class="whitespace-pre-wrap"><span style="color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.60181em; font-weight: bold; letter-spacing: -0.54px;">Serving, Storage, and Final Thoughts</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:9bc3b43a-c213-42ec-8461-bb7e0228fbed-4" data-testid="conversation-turn-10" data-scroll-anchor="true" data-turn="assistant">
+<div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="de003b8e-4403-4adb-9e78-dd1a53ea2c21" data-message-model-slug="gpt-5-2">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="146" data-end="312">This French Farmhouse Breakfast Cake is all about simplicity, warmth, and timeless flavor. Once the cake has cooled completely, it’s ready to be finished and enjoyed.</p>
+<h3 data-start="314" data-end="340">Serving and Decoration</h3>
+<p data-start="342" data-end="574">Just before serving, I lightly dust the top of the cake with <strong data-start="403" data-end="421">powdered sugar</strong> using a fine mesh sieve. This adds a touch of sweetness and gives the cake its classic farmhouse look without overpowering its buttery, delicate flavor.</p>
+<p data-start="576" data-end="843">I love serving this cake in thick slices with a cup of hot coffee, café au lait, or tea. It’s perfect for breakfast, brunch, or even a light afternoon treat. For an extra indulgent touch, it pairs beautifully with fresh berries or a spoonful of lightly whipped cream.</p>
+<h3 data-start="845" data-end="869">Storage Instructions</h3>
+<p data-start="871" data-end="1046">To keep the cake fresh, I store it in an airtight container at room temperature for up to <strong data-start="961" data-end="971">3 days</strong>. The butter keeps it moist, and the flavors continue to develop over time.</p>
+<p data-start="1048" data-end="1304">If I want to store it longer, I wrap individual slices tightly in plastic wrap and place them in a freezer-safe bag. The cake freezes well for up to <strong data-start="1197" data-end="1208">1 month</strong>. When ready to enjoy, I simply let it thaw at room temperature or warm it slightly in the oven.</p>
+<h2 data-start="1306" data-end="1319">Conclusion</h2>
+<p data-start="1321" data-end="1634">This <strong data-start="1326" data-end="1361">French Farmhouse Breakfast Cake</strong> is one of those recipes I come back to again and again. It’s easy to make, beautifully rustic, and filled with comforting flavors that never go out of style. With simple ingredients and straightforward steps, this cake captures the heart of traditional French home baking.</p>
+<p data-start="1636" data-end="1901">Whether I’m serving it to guests or enjoying a quiet morning slice, this breakfast cake always feels special. If you’re looking for a reliable, cozy, and SEO-friendly breakfast cake recipe to add to your collection, this French farmhouse classic is a must-bake. 🍰✨</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Crescent Roll Breakfast Casserole</title>
         <author>
