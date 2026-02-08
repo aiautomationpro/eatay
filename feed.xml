@@ -3,12 +3,202 @@
     <title>EatYay</title>
     <link href="https://eatyay.com/feed.xml" rel="self" />
     <link href="https://eatyay.com" />
-    <updated>2026-02-09T00:10:31+06:00</updated>
+    <updated>2026-02-09T00:19:41+06:00</updated>
     <author>
         <name>Mia Gomez</name>
     </author>
     <id>https://eatyay.com</id>
 
+    <entry>
+        <title>Delicious Strawberry Oatmeal Bars</title>
+        <author>
+            <name>Mia Gomez</name>
+        </author>
+        <link href="https://eatyay.com/strawberry-oatmeal-bars/"/>
+        <id>https://eatyay.com/strawberry-oatmeal-bars/</id>
+        <media:content url="https://eatyay.com/media/posts/26/Delicious-Strawberry-Oatmeal-Bars.png" medium="image" />
+            <category term="Breakfast"/>
+
+        <updated>2026-02-09T00:19:41+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://eatyay.com/media/posts/26/Delicious-Strawberry-Oatmeal-Bars.png" alt="" />
+                    There’s something about the combination of sweet strawberries and hearty oats that just feels like comfort in every bite. That’s&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eatyay.com/media/posts/26/Delicious-Strawberry-Oatmeal-Bars.png" class="type:primaryImage" alt="" /></p>
+                <p data-start="241" data-end="621">There’s something about the combination of sweet strawberries and hearty oats that just feels like comfort in every bite. That’s exactly why I love making <strong data-start="396" data-end="423">Strawberry Oatmeal Bars</strong>—they’re chewy, slightly crisp on top, and bursting with fresh strawberry flavor. Whether you’re looking for a wholesome breakfast treat, a snack, or a dessert, these bars hit all the right notes.</p>
+<p data-start="623" data-end="975">What makes them extra special is how simple they are to prepare. With pantry staples like oats, flour, and sugar, plus fresh strawberries and a little butter, you can whip up a batch in under an hour. I often swap in <strong data-start="840" data-end="860">gluten-free oats</strong> or <strong data-start="864" data-end="885">dairy-free butter</strong> depending on who I’m serving, and honestly, they turn out just as delicious every time.</p>
+<p data-start="977" data-end="1173">These bars are perfect for summer picnics, lunchboxes, or just a cozy afternoon treat. And the best part? You get that <strong data-start="1096" data-end="1121">homemade, rustic look</strong> without any fancy equipment or complicated steps.</p>
+<p data-start="1175" data-end="1419">In this recipe, I’ll walk you through everything step by step—from mixing the oat base to creating a luscious strawberry layer and finishing with the perfect bake. By the end, you’ll have bars that are chewy, fruity, and impossible to resist.</p>
+<p data-start="143" data-end="317">Before we dive into baking, let’s make sure we have everything ready. Having the right ingredients and tools makes the process smoother and ensures perfect bars every time.</p>
+<h3 data-start="319" data-end="362">Ingredients for Strawberry Oatmeal Bars</h3>
+<p data-start="364" data-end="387"><strong data-start="364" data-end="385">For the Oat Base:</strong></p>
+<ul data-start="388" data-end="708">
+<li data-start="388" data-end="447">
+<p data-start="390" data-end="447">1 cup old-fashioned rolled oats (gluten-free if needed)</p>
+</li>
+<li data-start="448" data-end="537">
+<p data-start="450" data-end="537">¾ cup white whole wheat flour (or all-purpose flour, or 1:1 gluten-free baking flour)</p>
+</li>
+<li data-start="538" data-end="565">
+<p data-start="540" data-end="565">⅓ cup light brown sugar</p>
+</li>
+<li data-start="566" data-end="594">
+<p data-start="568" data-end="594">¼ teaspoon ground ginger</p>
+</li>
+<li data-start="595" data-end="621">
+<p data-start="597" data-end="621">¼ teaspoon kosher salt</p>
+</li>
+<li data-start="622" data-end="708">
+<p data-start="624" data-end="708">6 tablespoons unsalted butter, melted (or melted coconut oil for vegan/dairy-free)</p>
+</li>
+</ul>
+<p data-start="710" data-end="743"><strong data-start="710" data-end="741">For the Strawberry Filling:</strong></p>
+<ul data-start="744" data-end="948">
+<li data-start="744" data-end="806">
+<p data-start="746" data-end="806">2 cups small-diced strawberries (about 10 ounces), divided</p>
+</li>
+<li data-start="807" data-end="832">
+<p data-start="809" data-end="832">1 teaspoon cornstarch</p>
+</li>
+<li data-start="833" data-end="905">
+<p data-start="835" data-end="905">1 tablespoon freshly squeezed lemon juice (from about ½ small lemon)</p>
+</li>
+<li data-start="906" data-end="948">
+<p data-start="908" data-end="948">1 tablespoon granulated sugar, divided</p>
+</li>
+</ul>
+<p data-start="950" data-end="973"><strong data-start="950" data-end="971">Optional Garnish:</strong></p>
+<ul data-start="974" data-end="1041">
+<li data-start="974" data-end="1041">
+<p data-start="976" data-end="1041">Chopped fresh chives or parsley (for a fresh, decorative touch)</p>
+</li>
+</ul>
+<h3 data-start="1043" data-end="1069">Required Kitchen Tools</h3>
+<p data-start="1071" data-end="1164">Having the right tools makes baking these bars a breeze. Here’s what I always keep on hand:</p>
+<ol data-start="1166" data-end="1684">
+<li data-start="1166" data-end="1259">
+<p data-start="1169" data-end="1259"><strong data-start="1169" data-end="1186">Mixing Bowls:</strong> A large bowl for the oat base and a smaller bowl for the strawberries.</p>
+</li>
+<li data-start="1260" data-end="1337">
+<p data-start="1263" data-end="1337"><strong data-start="1263" data-end="1293">Measuring Cups and Spoons:</strong> Precision is key for the perfect texture.</p>
+</li>
+<li data-start="1338" data-end="1417">
+<p data-start="1341" data-end="1417"><strong data-start="1341" data-end="1357">Baking Dish:</strong> I recommend an 8x8-inch square pan for evenly baked bars.</p>
+</li>
+<li data-start="1418" data-end="1505">
+<p data-start="1421" data-end="1505"><strong data-start="1421" data-end="1449">Spatula or Wooden Spoon:</strong> For mixing ingredients without overworking the dough.</p>
+</li>
+<li data-start="1506" data-end="1609">
+<p data-start="1509" data-end="1609"><strong data-start="1509" data-end="1539">Small Saucepan (Optional):</strong> If you want to gently heat the strawberry mixture before spreading.</p>
+</li>
+<li data-start="1610" data-end="1684">
+<p data-start="1613" data-end="1684"><strong data-start="1613" data-end="1633">Parchment Paper:</strong> Makes removing the bars from the pan effortless.</p>
+</li>
+</ol>
+<p data-start="1686" data-end="1806">With everything measured and your tools ready, you’ll be all set to create these irresistible strawberry oatmeal bars.</p>
+<h2 data-start="104" data-end="148">Preparation &amp; Baking Instructions</h2>
+<p data-start="150" data-end="343">Now comes the fun part—turning simple ingredients into chewy, fruity bars that everyone will love. I’ll walk you through each step so your strawberry oatmeal bars turn out perfect every time.</p>
+<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/26/Delicious-Strawberry-Oatmeal-Bars-1.png" alt="" width="832" height="1248" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/26/responsive/Delicious-Strawberry-Oatmeal-Bars-1-xs.png 300w ,https://eatyay.com/media/posts/26/responsive/Delicious-Strawberry-Oatmeal-Bars-1-sm.png 480w ,https://eatyay.com/media/posts/26/responsive/Delicious-Strawberry-Oatmeal-Bars-1-md.png 768w"></figure>
+<h3 data-start="345" data-end="375">Step 1: Preheat and Prep</h3>
+<p data-start="377" data-end="559">First, preheat your oven to <strong data-start="405" data-end="422">350°F (175°C)</strong>. Line an 8x8-inch baking dish with parchment paper, leaving a little overhang on the sides to make it easy to lift the bars out later.</p>
+<h3 data-start="561" data-end="592">Step 2: Make the Oat Base</h3>
+<p data-start="594" data-end="628">In a large mixing bowl, combine:</p>
+<ul data-start="629" data-end="768">
+<li data-start="629" data-end="650">
+<p data-start="631" data-end="650">1 cup rolled oats</p>
+</li>
+<li data-start="651" data-end="684">
+<p data-start="653" data-end="684">¾ cup white whole wheat flour</p>
+</li>
+<li data-start="685" data-end="712">
+<p data-start="687" data-end="712">⅓ cup light brown sugar</p>
+</li>
+<li data-start="713" data-end="741">
+<p data-start="715" data-end="741">¼ teaspoon ground ginger</p>
+</li>
+<li data-start="742" data-end="768">
+<p data-start="744" data-end="768">¼ teaspoon kosher salt</p>
+</li>
+</ul>
+<p data-start="770" data-end="1042">Stir these dry ingredients together until evenly mixed. Then, pour in <strong data-start="840" data-end="871">6 tablespoons melted butter</strong> (or coconut oil) and mix until the mixture is crumbly but sticks together slightly when pressed. Set aside <strong data-start="979" data-end="1000">¾ of this mixture</strong>—this will become the base of your bars.</p>
+<p data-start="1044" data-end="1237">Press the reserved mixture firmly into the bottom of the prepared pan to form an even layer. This will bake into a slightly crisp, golden oat base that holds the strawberry filling perfectly.</p>
+<h3 data-start="1239" data-end="1283">Step 3: Prepare the Strawberry Filling</h3>
+<p data-start="1285" data-end="1312">In a small bowl, combine:</p>
+<ul data-start="1313" data-end="1432">
+<li data-start="1313" data-end="1343">
+<p data-start="1315" data-end="1343">1½ cups diced strawberries</p>
+</li>
+<li data-start="1344" data-end="1369">
+<p data-start="1346" data-end="1369">1 teaspoon cornstarch</p>
+</li>
+<li data-start="1370" data-end="1403">
+<p data-start="1372" data-end="1403">1 tablespoon granulated sugar</p>
+</li>
+<li data-start="1404" data-end="1432">
+<p data-start="1406" data-end="1432">1 tablespoon lemon juice</p>
+</li>
+</ul>
+<p data-start="1434" data-end="1713">Mix gently until the strawberries are coated and the cornstarch is fully dissolved. This will help thicken the filling as it bakes. Then, spread the strawberry mixture evenly over the oat base. Sprinkle the remaining <strong data-start="1651" data-end="1679">½ cup diced strawberries</strong> on top for extra fruity bursts.</p>
+<h3 data-start="1715" data-end="1750">Step 4: Add the Crumb Topping</h3>
+<p data-start="1752" data-end="1939">Take the remaining ¼ of your oat mixture and sprinkle it evenly over the strawberry layer. This crumb topping will bake into a lightly crisp, golden finish—perfect for texture contrast.</p>
+<h3 data-start="1941" data-end="1973">Step 5: Bake to Perfection</h3>
+<p data-start="1975" data-end="2265">Place the pan in the preheated oven and bake for <strong data-start="2024" data-end="2041">35–40 minutes</strong>, or until the topping is golden and the filling is bubbling slightly at the edges. Once baked, remove the pan from the oven and let the bars cool completely in the pan before lifting them out using the parchment overhang.</p>
+<h3 data-start="2267" data-end="2296">Step 6: Slice and Serve</h3>
+<p data-start="2298" data-end="2527">Once cooled, slice the bars into squares or rectangles. You can enjoy them as-is or garnish with <strong data-start="2395" data-end="2430">chopped fresh chives or parsley</strong> for a playful, fresh twist. These bars are perfect for breakfast, a snack, or a light dessert.</p>
+<h2 data-start="94" data-end="128">Serving, Storage &amp; Tips</h2>
+<p data-start="130" data-end="304">After baking these strawberry oatmeal bars, the last step is all about enjoying them and keeping them fresh. I’ve learned a few tricks over time that make them even better.</p>
+<h3 data-start="306" data-end="331">Serving Suggestions</h3>
+<p data-start="333" data-end="505">I love serving these bars slightly chilled or at room temperature. They’re chewy, fruity, and have a subtle crunch from the oat topping. Here are a few ways I enjoy them:</p>
+<ul data-start="507" data-end="795">
+<li data-start="507" data-end="603">
+<p data-start="509" data-end="603"><strong data-start="509" data-end="534">As a Breakfast Treat:</strong> Pair with a cup of coffee or tea for a wholesome start to the day.</p>
+</li>
+<li data-start="604" data-end="688">
+<p data-start="606" data-end="688"><strong data-start="606" data-end="621">Snack Time:</strong> Perfect for a mid-afternoon energy boost—portable and mess-free.</p>
+</li>
+<li data-start="689" data-end="795">
+<p data-start="691" data-end="795"><strong data-start="691" data-end="703">Dessert:</strong> Add a dollop of Greek yogurt, vegan cream, or a drizzle of chocolate for a sweeter twist.</p>
+</li>
+</ul>
+<h3 data-start="797" data-end="823">Storage Instructions</h3>
+<p data-start="825" data-end="851">To keep your bars fresh:</p>
+<ul data-start="852" data-end="1245">
+<li data-start="852" data-end="933">
+<p data-start="854" data-end="933"><strong data-start="854" data-end="878">At Room Temperature:</strong> Store in an airtight container for up to <strong data-start="920" data-end="930">3 days</strong>.</p>
+</li>
+<li data-start="934" data-end="1051">
+<p data-start="936" data-end="1051"><strong data-start="936" data-end="960">In the Refrigerator:</strong> They can last <strong data-start="975" data-end="991">up to a week</strong>—just make sure they’re sealed well to prevent drying out.</p>
+</li>
+<li data-start="1052" data-end="1245">
+<p data-start="1054" data-end="1245"><strong data-start="1054" data-end="1067">Freezing:</strong> Wrap individual bars in parchment or plastic wrap and place them in a freezer-safe container. They freeze well for <strong data-start="1183" data-end="1201">up to 2 months</strong>. Thaw at room temperature before serving.</p>
+</li>
+</ul>
+<h3 data-start="1247" data-end="1280">Extra Tips for Perfect Bars</h3>
+<ol data-start="1282" data-end="1722">
+<li data-start="1282" data-end="1377">
+<p data-start="1285" data-end="1377"><strong data-start="1285" data-end="1314">Ripe Strawberries Matter:</strong> The sweeter and juicier, the better your filling will taste.</p>
+</li>
+<li data-start="1378" data-end="1453">
+<p data-start="1381" data-end="1453"><strong data-start="1381" data-end="1407">Press the Base Firmly:</strong> Ensures the bars hold together when sliced.</p>
+</li>
+<li data-start="1454" data-end="1569">
+<p data-start="1457" data-end="1569"><strong data-start="1457" data-end="1480">Don’t Skip Cooling:</strong> Cooling completely allows the filling to set and prevents the bars from falling apart.</p>
+</li>
+<li data-start="1570" data-end="1722">
+<p data-start="1573" data-end="1722"><strong data-start="1573" data-end="1601">Experiment with Flavors:</strong> Add a pinch of cinnamon or nutmeg to the oat mixture, or swap some strawberries for raspberries for a tangy variation.</p>
+</li>
+</ol>
+<p data-start="1724" data-end="2036">With these tips, making <strong data-start="1748" data-end="1775">Strawberry Oatmeal Bars</strong> becomes a simple, rewarding experience. They’re perfect for sharing—or sneaking a few for yourself. Once you taste the chewy oat base, sweet-tart strawberries, and golden crumb topping, you’ll understand why I keep coming back to this recipe again and again.</p>
+<h2 data-start="106" data-end="119">Conclusion</h2>
+<p data-start="121" data-end="535">Making <strong data-start="128" data-end="155">Strawberry Oatmeal Bars</strong> is one of my favorite ways to enjoy fresh strawberries and wholesome oats in a single, delicious treat. With a chewy oat base, a sweet-tart strawberry filling, and a golden crumb topping, these bars are simple to bake yet full of flavor. They’re perfect for breakfast, snacks, or dessert, and can easily be customized to suit dietary preferences like gluten-free or dairy-free.</p>
+<p data-start="537" data-end="832">Whether you’re baking for family, friends, or just yourself, these bars are a crowd-pleaser that will keep everyone coming back for more. With a little prep, simple ingredients, and some love in the kitchen, you can create bars that are not only visually appealing but absolutely irresistible.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Easy Crustless Mini Quiche Recipes</title>
         <author>
@@ -1568,216 +1758,6 @@
 <h3 data-start="1175" data-end="1201">Storage Instructions</h3>
 <p data-start="1202" data-end="1464">If you’re prepping these parfaits ahead of time, I store them in airtight containers or cover the glasses with plastic wrap in the fridge. They stay fresh for up to 24 hours, though I recommend adding granola just before serving if you want to keep it crunchy.</p>
 <p data-start="1471" data-end="1772">Creating this homemade yogurt parfait is a simple way to enjoy a healthy, flavorful treat anytime. With creamy yogurt, sweet honey, juicy berries, and crunchy granola, it’s a recipe I keep coming back to. Once you try it, you’ll see why it’s my favorite go-to for breakfast, snacks, or even dessert!</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</article>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Easy Quick Salmon Recipes Baked</title>
-        <author>
-            <name>Mia Gomez</name>
-        </author>
-        <link href="https://eatyay.com/cinnamon-roll-baked-oatmeal/"/>
-        <id>https://eatyay.com/cinnamon-roll-baked-oatmeal/</id>
-        <media:content url="https://eatyay.com/media/posts/16/Easy-Quick-Salmon-Recipes-Baked.png" medium="image" />
-            <category term="Breakfast"/>
-
-        <updated>2026-02-08T22:37:27+06:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://eatyay.com/media/posts/16/Easy-Quick-Salmon-Recipes-Baked.png" alt="" />
-                    Craving something healthy, flavorful, and ready in under 30 minutes? I always turn to easy quick salmon recipes baked when&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://eatyay.com/media/posts/16/Easy-Quick-Salmon-Recipes-Baked.png" class="type:primaryImage" alt="" /></p>
-                <article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:2303cb9b-1517-415f-a128-747db920da5b-1" data-testid="conversation-turn-4" data-scroll-anchor="false" data-turn="assistant">
-<div class="text-base my-auto mx-auto [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
-<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
-<div class="flex max-w-full flex-col grow">
-<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="83f07d6d-8066-4b32-b826-b41e38b12ae4" data-message-model-slug="gpt-5-2">
-<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
-<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
-<p data-start="211" data-end="662">Craving something healthy, flavorful, and ready in under 30 minutes? I always turn to <strong data-start="297" data-end="332">easy quick salmon recipes baked</strong> when I need a reliable dinner that feels fancy but takes minimal effort. Baked salmon is one of my favorite go-to meals because it’s tender, flaky, packed with nutrients, and incredibly versatile. With simple pantry spices, fresh lemon, and garlic, this oven-baked salmon recipe delivers restaurant-quality results right at home.</p>
-<p data-start="664" data-end="958">What I love most about this recipe is how beginner-friendly it is. There’s no marinating for hours, no complicated techniques, and no mess from stovetop cooking. Everything comes together beautifully in the oven, making it perfect for busy weeknights, meal prep, or even a light weekend dinner.</p>
-<h2 data-start="965" data-end="984">Ingredients List</h2>
-<h3 data-start="986" data-end="1008">Salmon Ingredients</h3>
-<ul data-start="1010" data-end="1355">
-<li data-start="1010" data-end="1050">
-<p data-start="1012" data-end="1050">4 salmon fillets (about 6 ounces each)</p>
-</li>
-<li data-start="1051" data-end="1076">
-<p data-start="1053" data-end="1076">2 tablespoons olive oil</p>
-</li>
-<li data-start="1077" data-end="1108">
-<p data-start="1079" data-end="1108">½ teaspoon salt (or to taste)</p>
-</li>
-<li data-start="1109" data-end="1178">
-<p data-start="1111" data-end="1178">¼ teaspoon cracked black pepper (use just a pinch if finely ground)</p>
-</li>
-<li data-start="1179" data-end="1206">
-<p data-start="1181" data-end="1206">2 teaspoons minced garlic</p>
-</li>
-<li data-start="1207" data-end="1338">
-<p data-start="1209" data-end="1338">1 teaspoon Italian herb seasoning blend<br data-start="1248" data-end="1251"><em data-start="1253" data-end="1338">(or Herbs de Provence, or ¼ teaspoon each dried thyme, parsley, oregano, and basil)</em></p>
-</li>
-<li data-start="1339" data-end="1355">
-<p data-start="1341" data-end="1355">1 medium lemon</p>
-</li>
-</ul>
-<p data-start="1357" data-end="1504">These simple ingredients come together to create a perfectly balanced baked salmon with bright citrus notes, savory herbs, and rich natural flavor.</p>
-<h2 data-start="1511" data-end="1536">Required Kitchen Tools</h2>
-<p data-start="1538" data-end="1670">When I make quick baked salmon recipes, having a few basic kitchen tools helps everything go smoothly. Here’s what I use every time:</p>
-<ol data-start="1672" data-end="2255">
-<li data-start="1672" data-end="1821">
-<p data-start="1675" data-end="1821"><strong data-start="1675" data-end="1706">Baking Sheet or Baking Dish</strong><br data-start="1706" data-end="1709">A rimmed baking sheet or shallow baking dish works best to hold the salmon and catch any juices while baking.</p>
-</li>
-<li data-start="1823" data-end="1946">
-<p data-start="1826" data-end="1946"><strong data-start="1826" data-end="1862">Parchment Paper or Aluminum Foil</strong><br data-start="1862" data-end="1865">Lining the pan makes cleanup effortless and prevents the salmon from sticking.</p>
-</li>
-<li data-start="1948" data-end="2050">
-<p data-start="1951" data-end="2050"><strong data-start="1951" data-end="1972">Small Mixing Bowl</strong><br data-start="1972" data-end="1975">I use this to mix the olive oil, garlic, herbs, salt, and pepper evenly.</p>
-</li>
-<li data-start="2052" data-end="2148">
-<p data-start="2055" data-end="2148"><strong data-start="2055" data-end="2079">Zester or Microplane</strong><br data-start="2079" data-end="2082">Perfect for zesting fresh lemon to enhance the salmon’s flavor.</p>
-</li>
-<li data-start="2150" data-end="2255">
-<p data-start="2153" data-end="2255"><strong data-start="2153" data-end="2173">Measuring Spoons</strong><br data-start="2173" data-end="2176">Accurate measurements ensure the seasoning is balanced and not overpowering.</p>
-</li>
-</ol>
-<p data-start="2257" data-end="2350">Having these tools ready allows me to prep and bake the salmon quickly without interruptions.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</article>
-<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-(--header-height)" dir="auto" tabindex="-1" data-turn-id="e054c8bf-b2c1-44c0-b16c-d0b519178788" data-testid="conversation-turn-5" data-scroll-anchor="false" data-turn="user">
-<div class="text-base my-auto mx-auto pt-12 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
-<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col" tabindex="-1">
-<div> </div>
-<div class="z-0 flex justify-end"><span style="color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.60181em; font-weight: bold; letter-spacing: -0.54px;">Part 2: Salmon Preparation &amp; Seasoning</span></div>
-</div>
-</div>
-</article>
-<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:2303cb9b-1517-415f-a128-747db920da5b-2" data-testid="conversation-turn-6" data-scroll-anchor="false" data-turn="assistant">
-<div class="text-base my-auto mx-auto [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
-<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
-<div class="flex max-w-full flex-col grow">
-<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="7226c661-a197-4231-9dab-6fceafac20fd" data-message-model-slug="gpt-5-2">
-<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
-<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
-<p data-start="95" data-end="314">Preparing the salmon properly is what makes this <strong data-start="144" data-end="178">easy quick baked salmon recipe</strong> turn out tender, juicy, and full of flavor every single time. I keep the steps simple so the natural taste of the salmon really shines.</p>
-<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/16/Easy-Quick-Salmon-Recipes-Baked-1-2.png" alt="" width="832" height="1248" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/16/responsive/Easy-Quick-Salmon-Recipes-Baked-1-2-xs.png 300w ,https://eatyay.com/media/posts/16/responsive/Easy-Quick-Salmon-Recipes-Baked-1-2-sm.png 480w ,https://eatyay.com/media/posts/16/responsive/Easy-Quick-Salmon-Recipes-Baked-1-2-md.png 768w"></figure>
-<h3 data-start="316" data-end="348">Preparing the Salmon Fillets</h3>
-<p data-start="350" data-end="479">First, I preheat my oven to <strong data-start="378" data-end="395">400°F (200°C)</strong>. This temperature is ideal for baking salmon quickly while keeping it moist inside.</p>
-<p data-start="481" data-end="809">I line a baking sheet with parchment paper or foil, then lightly brush it with olive oil to prevent sticking. Next, I place the salmon fillets on the prepared baking sheet, skin-side down if the skin is still attached. I always pat the salmon dry with paper towels—this helps the seasoning stick better and ensures even cooking.</p>
-<h3 data-start="811" data-end="847">Making the Garlic Herb Seasoning</h3>
-<p data-start="849" data-end="1034">In a small bowl, I mix together the olive oil, minced garlic, Italian herb seasoning, salt, and cracked black pepper. This simple blend adds bold flavor without overpowering the salmon.</p>
-<p data-start="1036" data-end="1212">Using a spoon or pastry brush, I spread the seasoning mixture evenly over each salmon fillet. I make sure the top is well coated so every bite is infused with garlic and herbs.</p>
-<h3 data-start="1214" data-end="1243">Adding Fresh Lemon Flavor</h3>
-<p data-start="1245" data-end="1558">To finish the prep, I zest a bit of fresh lemon directly over the salmon for extra brightness. Then, I slice the lemon into thin rounds and place them on top of each fillet or tuck them around the salmon. As the salmon bakes, the lemon releases its juices, keeping the fish moist and enhancing the overall flavor.</p>
-<p data-start="1560" data-end="1661">Once everything is seasoned, the salmon is ready to go straight into the oven—no marinating required.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</article>
-<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-(--header-height)" dir="auto" tabindex="-1" data-turn-id="c524b226-a3ac-487c-94a1-8fb92f0ef617" data-testid="conversation-turn-7" data-scroll-anchor="false" data-turn="user">
-<div class="text-base my-auto mx-auto pt-12 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
-<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col" tabindex="-1">
-<div class="flex max-w-full flex-col grow">
-<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="user" data-message-id="c524b226-a3ac-487c-94a1-8fb92f0ef617">
-<div class="flex w-full flex-col gap-1 empty:hidden items-end rtl:items-start">
-<div class="user-message-bubble-color corner-superellipse/1.1 relative rounded-[18px] px-4 py-1.5 data-[multiline]:py-3 max-w-[var(--user-chat-width,70%)]">
-<div> </div>
-<div class="whitespace-pre-wrap"><span style="color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.60181em; font-weight: bold; letter-spacing: -0.54px;">Part 3: Baking the Salmon to Perfection</span></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</article>
-<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:2303cb9b-1517-415f-a128-747db920da5b-3" data-testid="conversation-turn-8" data-scroll-anchor="false" data-turn="assistant">
-<div class="text-base my-auto mx-auto [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
-<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
-<div class="flex max-w-full flex-col grow">
-<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="ecff9a30-8930-486a-8618-c49ebc5e1287" data-message-model-slug="gpt-5-2">
-<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
-<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
-<p data-start="96" data-end="313">Baking is my favorite way to cook salmon because it’s hands-off, quick, and delivers consistently delicious results. This step is where the magic happens and those simple ingredients turn into a flavorful, flaky meal.</p>
-<h3 data-start="315" data-end="346">Baking Time and Temperature</h3>
-<p data-start="348" data-end="541">Once the oven is fully preheated to <strong data-start="384" data-end="401">400°F (200°C)</strong>, I place the baking sheet on the middle rack. I bake the salmon uncovered for <strong data-start="480" data-end="497">12–15 minutes</strong>, depending on the thickness of the fillets.</p>
-<p data-start="543" data-end="731">Thicker fillets usually need closer to 15 minutes, while thinner ones are done around the 12-minute mark. The salmon is ready when it flakes easily with a fork and turns opaque throughout.</p>
-<h3 data-start="733" data-end="766">How I Know the Salmon Is Done</h3>
-<p data-start="768" data-end="814">To avoid overcooking, I check for these signs:</p>
-<ul data-start="816" data-end="994">
-<li data-start="816" data-end="862">
-<p data-start="818" data-end="862">The flesh changes from translucent to opaque</p>
-</li>
-<li data-start="863" data-end="921">
-<p data-start="865" data-end="921">The salmon flakes easily when gently pressed with a fork</p>
-</li>
-<li data-start="922" data-end="994">
-<p data-start="924" data-end="994">The internal temperature reaches <strong data-start="957" data-end="973">145°F (63°C)</strong> at the thickest part</p>
-</li>
-</ul>
-<p data-start="996" data-end="1154">I’m careful not to overbake, as salmon can dry out quickly. If I want extra juiciness, I loosely tent the salmon with foil for the last few minutes of baking.</p>
-<h3 data-start="1156" data-end="1194">Optional Broiling for Extra Flavor</h3>
-<p data-start="1196" data-end="1432">Sometimes, I like to switch the oven to <strong data-start="1236" data-end="1245">broil</strong> for the final 1–2 minutes. This gives the top of the salmon a slightly crisp, golden finish while keeping the inside tender. I keep a close eye on it during this step to prevent burning.</p>
-<p data-start="1434" data-end="1614">Once baked, I remove the salmon from the oven and let it rest for a couple of minutes before serving. This allows the juices to redistribute, making every bite moist and flavorful.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</article>
-<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:2303cb9b-1517-415f-a128-747db920da5b-4" data-testid="conversation-turn-10" data-scroll-anchor="true" data-turn="assistant">
-<div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
-<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
-<div class="flex max-w-full flex-col grow">
-<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="5113cf85-2db6-4852-8c6f-711e5fabd62a" data-message-model-slug="gpt-5-2">
-<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
-<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
-<h2 data-start="67" data-end="107">Part 4: Serving, Storage &amp; Conclusion</h2>
-<p data-start="109" data-end="330">This is where I bring everything together and turn this <strong data-start="165" data-end="199">easy quick baked salmon recipe</strong> into a complete, satisfying meal. Whether I’m serving it fresh out of the oven or saving leftovers, this salmon never disappoints.</p>
-<h3 data-start="332" data-end="355">Serving Suggestions</h3>
-<p data-start="357" data-end="540">I love serving baked salmon while it’s still warm and flaky. A light squeeze of fresh lemon juice right before serving enhances the flavor even more. This dish pairs beautifully with:</p>
-<ul data-start="542" data-end="755">
-<li data-start="542" data-end="616">
-<p data-start="544" data-end="616">Steamed or roasted vegetables like broccoli, asparagus, or green beans</p>
-</li>
-<li data-start="617" data-end="653">
-<p data-start="619" data-end="653">Fluffy rice, quinoa, or couscous</p>
-</li>
-<li data-start="654" data-end="703">
-<p data-start="656" data-end="703">A fresh green salad with a simple vinaigrette</p>
-</li>
-<li data-start="704" data-end="755">
-<p data-start="706" data-end="755">Garlic mashed potatoes or roasted baby potatoes</p>
-</li>
-</ul>
-<p data-start="757" data-end="855">For a complete and healthy dinner, I often plate the salmon with a grain and a veggie for balance.</p>
-<h3 data-start="857" data-end="881">Storage Instructions</h3>
-<p data-start="883" data-end="1043">If I have leftovers, I let the salmon cool completely before storing it. I place the fillets in an airtight container and refrigerate them for up to <strong data-start="1032" data-end="1042">3 days</strong>.</p>
-<p data-start="1045" data-end="1224">To reheat, I warm the salmon gently in the oven at <strong data-start="1096" data-end="1113">300°F (150°C)</strong> for about 8–10 minutes or until heated through. I avoid microwaving when possible, as it can dry out the fish.</p>
-<h3 data-start="1226" data-end="1251">Freezing Baked Salmon</h3>
-<p data-start="1253" data-end="1519">This baked salmon also freezes well. I wrap each cooled fillet tightly in plastic wrap, then place them in a freezer-safe container or bag. The salmon can be frozen for up to <strong data-start="1428" data-end="1440">2 months</strong>. When ready to eat, I thaw it overnight in the refrigerator and reheat gently.</p>
-<h3 data-start="1521" data-end="1535">Conclusion</h3>
-<p data-start="1537" data-end="1897">This <strong data-start="1542" data-end="1576">easy quick salmon recipe baked</strong> is one of my favorite go-to meals when I want something nutritious, flavorful, and effortless. With just a handful of simple ingredients and minimal prep, I can create a dish that feels elegant yet approachable. The combination of garlic, herbs, and fresh lemon brings out the best in the salmon without overpowering it.</p>
-<p data-start="1899" data-end="2121">Whether you’re cooking for yourself, your family, or guests, this baked salmon recipe is reliable, customizable, and always delicious. Once you try it, it’s bound to become a regular part of your weekly meal rotation. 🐟🍋</p>
 </div>
 </div>
 </div>
