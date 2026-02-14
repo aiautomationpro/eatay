@@ -3,12 +3,207 @@
     <title>EatYay</title>
     <link href="https://eatyay.com/feed.xml" rel="self" />
     <link href="https://eatyay.com" />
-    <updated>2026-02-14T09:55:17+06:00</updated>
+    <updated>2026-02-14T10:52:12+06:00</updated>
     <author>
         <name>Mia Gomez</name>
     </author>
     <id>https://eatyay.com</id>
 
+    <entry>
+        <title>Easy Lemon Blueberry Cookies Recipe</title>
+        <author>
+            <name>Mia Gomez</name>
+        </author>
+        <link href="https://eatyay.com/lemon-blueberry-cookies/"/>
+        <id>https://eatyay.com/lemon-blueberry-cookies/</id>
+        <media:content url="https://eatyay.com/media/posts/53/Easy-Lemon-Blueberry-Cookies-Recipe.png" medium="image" />
+            <category term="Cookies"/>
+
+        <updated>2026-02-14T10:52:12+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://eatyay.com/media/posts/53/Easy-Lemon-Blueberry-Cookies-Recipe.png" alt="" />
+                    Craving something bright, buttery, and bursting with juicy berries? These Easy Lemon Blueberry Cookies are soft, sweet, and finished with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eatyay.com/media/posts/53/Easy-Lemon-Blueberry-Cookies-Recipe.png" class="type:primaryImage" alt="" /></p>
+                <p data-start="0" data-end="335">Craving something bright, buttery, and bursting with juicy berries? These <strong data-start="74" data-end="106">Easy Lemon Blueberry Cookies</strong> are soft, sweet, and finished with a tangy lemon glaze that takes them over the top. I love how the fresh lemon juice perfectly balances the sweetness, while the blueberries add little pockets of fruity goodness in every bite.Whether you're baking for spring gatherings, summer picnics, or simply want a refreshing twist on classic cookies, this recipe delivers bakery-style results with simple pantry ingredients.</p>
+<h2 data-start="532" data-end="551">Ingredients List</h2>
+<h3 data-start="553" data-end="575">Cookie Ingredients</h3>
+<ul data-start="577" data-end="760">
+<li data-start="577" data-end="587">
+<p data-start="579" data-end="587">3 eggs</p>
+</li>
+<li data-start="588" data-end="604">
+<p data-start="590" data-end="604">2 cups sugar</p>
+</li>
+<li data-start="605" data-end="631">
+<p data-start="607" data-end="631">¾ cup butter, softened</p>
+</li>
+<li data-start="632" data-end="662">
+<p data-start="634" data-end="662">1 teaspoon vanilla extract</p>
+</li>
+<li data-start="663" data-end="692">
+<p data-start="665" data-end="692">2½ cups all-purpose flour</p>
+</li>
+<li data-start="693" data-end="760">
+<p data-start="695" data-end="760">1 cup blueberries (fresh berries that have been frozen work best)</p>
+</li>
+</ul>
+<h3 data-start="762" data-end="789">Lemon Glaze Ingredients</h3>
+<ul data-start="791" data-end="872">
+<li data-start="791" data-end="816">
+<p data-start="793" data-end="816">2 cups powdered sugar</p>
+</li>
+<li data-start="817" data-end="872">
+<p data-start="819" data-end="872">2 tablespoons fresh lemon juice (plus more as needed)</p>
+</li>
+</ul>
+<h2 data-start="879" data-end="904">Required Kitchen Tools</h2>
+<p data-start="906" data-end="1024">When I make these lemon blueberry cookies, having the right tools makes everything easier and ensures perfect texture.</p>
+<ol data-start="1026" data-end="1484">
+<li data-start="1026" data-end="1124">
+<p data-start="1029" data-end="1124"><strong data-start="1029" data-end="1052">Hand or Stand Mixer</strong> – Creaming butter and sugar properly is key for soft, fluffy cookies.</p>
+</li>
+<li data-start="1125" data-end="1200">
+<p data-start="1128" data-end="1200"><strong data-start="1128" data-end="1144">Mixing Bowls</strong> – One large bowl for wet ingredients and one for dry.</p>
+</li>
+<li data-start="1201" data-end="1283">
+<p data-start="1204" data-end="1283"><strong data-start="1204" data-end="1222">Rubber Spatula</strong> – For gently folding in blueberries without crushing them.</p>
+</li>
+<li data-start="1284" data-end="1352">
+<p data-start="1287" data-end="1352"><strong data-start="1287" data-end="1304">Baking Sheets</strong> – Lined with parchment paper for even baking.</p>
+</li>
+<li data-start="1353" data-end="1423">
+<p data-start="1356" data-end="1423"><strong data-start="1356" data-end="1377">Wire Cooling Rack</strong> – Helps cookies cool evenly before glazing.</p>
+</li>
+<li data-start="1424" data-end="1484">
+<p data-start="1427" data-end="1484"><strong data-start="1427" data-end="1436">Whisk</strong> – For creating a smooth, lump-free lemon glaze.</p>
+</li>
+</ol>
+<h2 data-start="1491" data-end="1518">Cookie Dough Preparation</h2>
+<p data-start="1520" data-end="1638">Preparing the dough correctly ensures soft lemon blueberry cookies with a tender crumb and evenly distributed berries.</p>
+<h3 data-start="1640" data-end="1666">Mixing the Ingredients</h3>
+<p data-start="1668" data-end="1882">I start by creaming the softened butter and sugar together in a large bowl using a mixer. I beat them for about 3–4 minutes until the mixture becomes light and fluffy — this step creates soft, bakery-style cookies.</p>
+<p data-start="1884" data-end="1988">Next, I add the eggs one at a time, mixing well after each addition. Then I stir in the vanilla extract.</p>
+<p data-start="1990" data-end="2145">Gradually, I add the all-purpose flour and mix just until combined. Overmixing can make the cookies dense, so I stop as soon as no streaks of flour remain.</p>
+<p data-start="2147" data-end="2290">Finally, I gently fold in the frozen blueberries using a spatula. Using frozen berries helps prevent excess juice from bleeding into the dough.</p>
+<h3 data-start="2297" data-end="2345">Resting the Dough (Optional but Recommended)</h3>
+<p data-start="2347" data-end="2414">If I have time, I chill the dough for about 30 minutes. This helps:</p>
+<ul data-start="2416" data-end="2493">
+<li data-start="2416" data-end="2437">
+<p data-start="2418" data-end="2437">Prevent spreading</p>
+</li>
+<li data-start="2438" data-end="2458">
+<p data-start="2440" data-end="2458">Intensify flavor</p>
+</li>
+<li data-start="2459" data-end="2493">
+<p data-start="2461" data-end="2493">Create thicker, softer cookies</p>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/53/Easy-Lemon-Blueberry-Cookies-Recipe-1.jpeg" alt="" width="1024" height="720" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/53/responsive/Easy-Lemon-Blueberry-Cookies-Recipe-1-xs.jpeg 300w ,https://eatyay.com/media/posts/53/responsive/Easy-Lemon-Blueberry-Cookies-Recipe-1-sm.jpeg 480w ,https://eatyay.com/media/posts/53/responsive/Easy-Lemon-Blueberry-Cookies-Recipe-1-md.jpeg 768w"></figure>
+<h2 data-start="2500" data-end="2538">Shaping the Lemon Blueberry Cookies</h2>
+<p data-start="2540" data-end="2571">To shape the cookies perfectly:</p>
+<ol data-start="2573" data-end="2934">
+<li data-start="2573" data-end="2631">
+<p data-start="2576" data-end="2631"><strong data-start="2576" data-end="2593">Preheat Oven:</strong> I preheat my oven to 350°F (175°C).</p>
+</li>
+<li data-start="2632" data-end="2704">
+<p data-start="2635" data-end="2704"><strong data-start="2635" data-end="2661">Prepare Baking Sheets:</strong> Line baking sheets with parchment paper.</p>
+</li>
+<li data-start="2705" data-end="2849">
+<p data-start="2708" data-end="2849"><strong data-start="2708" data-end="2728">Scoop the Dough:</strong> Using a cookie scoop or tablespoon, I drop evenly sized dough balls onto the baking sheet, leaving space between each.</p>
+</li>
+<li data-start="2850" data-end="2934">
+<p data-start="2853" data-end="2934"><strong data-start="2853" data-end="2873">Lightly Flatten:</strong> I gently press the tops slightly to help them spread evenly.</p>
+</li>
+</ol>
+<h2 data-start="2941" data-end="2962">Baking the Cookies</h2>
+<h3 data-start="2964" data-end="2995">Baking Time and Temperature</h3>
+<p data-start="2997" data-end="3055">I bake the cookies at <strong data-start="3019" data-end="3036">350°F (175°C)</strong> for 12–15 minutes.</p>
+<p data-start="3057" data-end="3088">You’ll know they’re ready when:</p>
+<ul data-start="3089" data-end="3160">
+<li data-start="3089" data-end="3121">
+<p data-start="3091" data-end="3121">The edges are lightly golden</p>
+</li>
+<li data-start="3122" data-end="3160">
+<p data-start="3124" data-end="3160">The centers are set but still soft</p>
+</li>
+</ul>
+<p data-start="3162" data-end="3282">I remove them from the oven and allow them to cool on the baking sheet for 5 minutes before transferring to a wire rack.</p>
+<h2 data-start="3289" data-end="3314">Making the Lemon Glaze</h2>
+<p data-start="3316" data-end="3389">The glaze is what makes these cookies irresistibly bright and refreshing.</p>
+<h3 data-start="3391" data-end="3418">How I Prepare the Glaze</h3>
+<ol data-start="3420" data-end="3582">
+<li data-start="3420" data-end="3490">
+<p data-start="3423" data-end="3490">In a bowl, I whisk together powdered sugar and fresh lemon juice.</p>
+</li>
+<li data-start="3491" data-end="3582">
+<p data-start="3494" data-end="3582">I adjust the consistency by adding more lemon juice (a few drops at a time) if needed.</p>
+</li>
+</ol>
+<p data-start="3584" data-end="3623">The glaze should be thick but pourable.</p>
+<h2 data-start="3630" data-end="3652">Glazing the Cookies</h2>
+<p data-start="3654" data-end="3691">Once the cookies are completely cool:</p>
+<ul data-start="3693" data-end="3829">
+<li data-start="3693" data-end="3750">
+<p data-start="3695" data-end="3750">I drizzle the lemon glaze over the top using a spoon.</p>
+</li>
+<li data-start="3751" data-end="3829">
+<p data-start="3753" data-end="3829">Alternatively, I dip the tops directly into the glaze for fuller coverage.</p>
+</li>
+</ul>
+<p data-start="3831" data-end="3915">I let the glaze set at room temperature for about 20–30 minutes until slightly firm.</p>
+<h2 data-start="3922" data-end="3947">Serving and Decoration</h2>
+<h3 data-start="3949" data-end="3975">Suggested Enhancements</h3>
+<p data-start="3977" data-end="4028">If I want to elevate presentation, I sometimes add:</p>
+<ul data-start="4030" data-end="4238">
+<li data-start="4030" data-end="4105">
+<p data-start="4032" data-end="4105"><strong data-start="4032" data-end="4052">Fresh Lemon Zest</strong> – Sprinkled lightly on top for extra citrus aroma.</p>
+</li>
+<li data-start="4106" data-end="4179">
+<p data-start="4108" data-end="4179"><strong data-start="4108" data-end="4129">Extra Blueberries</strong> – Pressed gently into the glaze before it sets.</p>
+</li>
+<li data-start="4180" data-end="4238">
+<p data-start="4182" data-end="4238"><strong data-start="4182" data-end="4209">White Chocolate Drizzle</strong> – For a bakery-style finish.</p>
+</li>
+</ul>
+<p data-start="4240" data-end="4301">These cookies pair beautifully with tea, lemonade, or coffee.</p>
+<h2 data-start="4308" data-end="4331">Storage Instructions</h2>
+<h3 data-start="4333" data-end="4378">How to Keep Lemon Blueberry Cookies Fresh</h3>
+<p data-start="4380" data-end="4544">I store the cookies in an airtight container at room temperature for up to 3 days. Because of the glaze, I place parchment paper between layers to prevent sticking.</p>
+<h3 data-start="4546" data-end="4571">Freezing Instructions</h3>
+<p data-start="4573" data-end="4583">To freeze:</p>
+<ul data-start="4585" data-end="4735">
+<li data-start="4585" data-end="4659">
+<p data-start="4587" data-end="4659">Place unglazed cookies in a freezer-safe container for up to 2 months.</p>
+</li>
+<li data-start="4660" data-end="4735">
+<p data-start="4662" data-end="4735">Thaw at room temperature and glaze fresh before serving for best results.</p>
+</li>
+</ul>
+<h2 data-start="4742" data-end="4789">Pro Tips for Perfect Lemon Blueberry Cookies</h2>
+<ul data-start="4791" data-end="5009">
+<li data-start="4791" data-end="4852">
+<p data-start="4793" data-end="4852">Use frozen blueberries to reduce bleeding into the dough.</p>
+</li>
+<li data-start="4853" data-end="4892">
+<p data-start="4855" data-end="4892">Do not overmix once flour is added.</p>
+</li>
+<li data-start="4893" data-end="4940">
+<p data-start="4895" data-end="4940">Let cookies cool completely before glazing.</p>
+</li>
+<li data-start="4941" data-end="5009">
+<p data-start="4943" data-end="5009">For extra lemon flavor, add 1 teaspoon of lemon zest to the dough.</p>
+</li>
+</ul>
+<h2 data-start="5428" data-end="5441">Conclusion</h2>
+<p data-start="5443" data-end="5786">These Easy Lemon Blueberry Cookies are the perfect combination of sweet, tart, and buttery goodness. I love how simple ingredients transform into soft, flavorful cookies that look as beautiful as they taste. The bright lemon glaze and bursts of blueberry make them ideal for spring and summer baking — but honestly, I bake them all year round.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Easy Steak and Shrimp Recipe</title>
         <author>
@@ -1496,112 +1691,6 @@
 <p data-start="4228" data-end="4391">I don’t recommend freezing egg salad, as the mayonnaise can separate and the texture can become watery upon thawing. Stick to refrigeration for the best results.</p>
 <h2 data-start="4393" data-end="4408">Conclusion</h2>
 <p data-start="4410" data-end="4954">Making my <em data-start="4420" data-end="4454">Simple Egg Salad Sandwich Recipe</em> is not only easy but also incredibly satisfying. With just a few ingredients and a little time, you can enjoy a creamy, flavorful sandwich that’s perfect for any occasion. By following these steps, you’ll achieve a perfectly balanced egg salad every time. Whether you stick with the classic version or add your favorite twists, this sandwich is sure to become a staple in your kitchen. So grab your eggs, mayonnaise, and bread, and enjoy the simple pleasure of a homemade egg salad sandwich today!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Quick salmon recipes baked</title>
-        <author>
-            <name>Mia Gomez</name>
-        </author>
-        <link href="https://eatyay.com/salmon-recipes-baked/"/>
-        <id>https://eatyay.com/salmon-recipes-baked/</id>
-        <media:content url="https://eatyay.com/media/posts/43/Quick-salmon-recipes-baked.png" medium="image" />
-            <category term="Lunch"/>
-
-        <updated>2026-02-12T00:29:05+06:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://eatyay.com/media/posts/43/Quick-salmon-recipes-baked.png" alt="" />
-                    Craving a healthy, flavorful dinner that comes together in no time? My quick baked salmon recipe is a game-changer. With&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://eatyay.com/media/posts/43/Quick-salmon-recipes-baked.png" class="type:primaryImage" alt="" /></p>
-                <p data-start="159" data-end="554">Craving a healthy, flavorful dinner that comes together in no time? My quick baked salmon recipe is a game-changer. With tender, juicy fillets infused with garlic, herbs, and a hint of lemon, this dish is perfect for busy weeknights or a fancy dinner at home. Baking salmon in the oven keeps it moist while letting the natural flavors shine. Plus, it’s simple, quick, and absolutely delicious!</p>
-<h2 data-start="556" data-end="575">Ingredients List</h2>
-<h3 data-start="577" data-end="599">Salmon Ingredients</h3>
-<ul data-start="601" data-end="967">
-<li data-start="601" data-end="642">
-<p data-start="603" data-end="642">4 salmon fillets, about 6 ounces each</p>
-</li>
-<li data-start="643" data-end="670">
-<p data-start="645" data-end="670">2 tablespoons olive oil</p>
-</li>
-<li data-start="671" data-end="703">
-<p data-start="673" data-end="703">½ teaspoon salt, or to taste</p>
-</li>
-<li data-start="704" data-end="767">
-<p data-start="706" data-end="767">¼ teaspoon cracked black pepper (use less if finely ground)</p>
-</li>
-<li data-start="768" data-end="797">
-<p data-start="770" data-end="797">2 teaspoons minced garlic</p>
-</li>
-<li data-start="798" data-end="928">
-<p data-start="800" data-end="928">1 teaspoon Italian herb seasoning blend (or Herbs de Provence, or ¼ teaspoon each of dried thyme, parsley, oregano, and basil)</p>
-</li>
-<li data-start="929" data-end="967">
-<p data-start="931" data-end="967">1 medium lemon, sliced for serving</p>
-</li>
-</ul>
-<h2 data-start="969" data-end="994">Required Kitchen Tools</h2>
-<p data-start="996" data-end="1111">Baking salmon is quick and easy, but having the right tools makes it even more seamless. Here’s what I recommend:</p>
-<ol data-start="1113" data-end="1584">
-<li data-start="1113" data-end="1218">
-<p data-start="1116" data-end="1218"><strong data-start="1116" data-end="1149">Baking Sheet or Oven-Safe Pan</strong> – Essential for holding the salmon fillets while they bake evenly.</p>
-</li>
-<li data-start="1219" data-end="1299">
-<p data-start="1222" data-end="1299"><strong data-start="1222" data-end="1249">Parchment Paper or Foil</strong> – Makes cleanup a breeze and prevents sticking.</p>
-</li>
-<li data-start="1300" data-end="1396">
-<p data-start="1303" data-end="1396"><strong data-start="1303" data-end="1324">Small Mixing Bowl</strong> – Perfect for mixing your olive oil, garlic, herbs, salt, and pepper.</p>
-</li>
-<li data-start="1397" data-end="1491">
-<p data-start="1400" data-end="1491"><strong data-start="1400" data-end="1428">Basting Brush (Optional)</strong> – Helps coat the salmon evenly with the herb-garlic mixture.</p>
-</li>
-<li data-start="1492" data-end="1584">
-<p data-start="1495" data-end="1584"><strong data-start="1495" data-end="1526">Oven Thermometer (Optional)</strong> – Ensures your salmon cooks at the perfect temperature.</p>
-</li>
-</ol>
-<p data-start="1586" data-end="1665">Having these tools ready guarantees a smooth, stress-free cooking experience.</p>
-<h2 data-start="1667" data-end="1690">Preparing the Salmon</h2>
-<p data-start="1692" data-end="1823">The secret to perfect baked salmon is keeping it simple and flavorful. Follow these steps for juicy, aromatic fillets every time.</p>
-<h3 data-start="1825" data-end="1849">Prepping the Fillets</h3>
-<p data-start="1851" data-end="2049">First, preheat your oven to 400°F (200°C). While the oven warms, pat your salmon fillets dry with paper towels to remove excess moisture. This ensures the olive oil and seasonings stick perfectly.</p>
-<p data-start="2051" data-end="2241">In a small bowl, combine the olive oil, minced garlic, salt, cracked black pepper, and your choice of herb blend. I like to mix this into a fragrant paste that will coat the salmon evenly.</p>
-<h3 data-start="2243" data-end="2267">Seasoning the Salmon</h3>
-<p data-start="2269" data-end="2546">Place the salmon fillets on a parchment-lined baking sheet, skin-side down if your fillets have skin. Brush or spoon the garlic-herb mixture over each fillet, making sure to cover the top and sides. This step infuses the fish with flavor while keeping it moist during baking.</p>
-<p data-start="2548" data-end="2676">Add thin slices of lemon on top or around the fillets for a bright, citrusy aroma that complements the richness of the salmon.</p>
-<h2 data-start="2678" data-end="2698">Baking the Salmon</h2>
-<p data-start="2700" data-end="2782">Baking salmon is quick, which is perfect when you want dinner on the table fast.</p>
-<h3 data-start="2784" data-end="2815">Oven Temperature and Timing</h3>
-<p data-start="2817" data-end="3044">Slide the baking sheet into your preheated oven and bake at 400°F (200°C) for 12-15 minutes, depending on the thickness of your fillets. Salmon is done when it flakes easily with a fork and the center is slightly translucent.</p>
-<p data-start="3046" data-end="3247">Avoid overcooking, as this can dry out the fish. If you like, I like to broil the salmon for the last 1-2 minutes to get a slightly caramelized top—it adds extra flavor and a beautiful golden finish.</p>
-<h2 data-start="3249" data-end="3271">Serving Suggestions</h2>
-<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/43/Quick-salmon-recipes-baked-1.jpeg" alt="" width="832" height="1248" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/43/responsive/Quick-salmon-recipes-baked-1-xs.jpeg 300w ,https://eatyay.com/media/posts/43/responsive/Quick-salmon-recipes-baked-1-sm.jpeg 480w ,https://eatyay.com/media/posts/43/responsive/Quick-salmon-recipes-baked-1-md.jpeg 768w"></figure>
-<h3 data-start="3273" data-end="3296">Plating Your Salmon</h3>
-<p data-start="3298" data-end="3531">Once baked, transfer your salmon fillets to a serving plate and squeeze fresh lemon juice over the top for a zesty kick. Pair the salmon with roasted vegetables, a fresh green salad, or steamed rice for a balanced, satisfying meal.</p>
-<h3 data-start="3533" data-end="3555">Optional Garnishes</h3>
-<ul data-start="3557" data-end="3700">
-<li data-start="3557" data-end="3603">
-<p data-start="3559" data-end="3603">Fresh parsley or dill for a burst of color</p>
-</li>
-<li data-start="3604" data-end="3656">
-<p data-start="3606" data-end="3656">A drizzle of extra virgin olive oil for richness</p>
-</li>
-<li data-start="3657" data-end="3700">
-<p data-start="3659" data-end="3700">Lemon wedges on the side for extra tang</p>
-</li>
-</ul>
-<p data-start="3702" data-end="3787">These simple touches elevate your plate and make your meal feel restaurant-quality.</p>
-<h2 data-start="3789" data-end="3812">Storage Instructions</h2>
-<h3 data-start="3814" data-end="3838">Keeping Salmon Fresh</h3>
-<p data-start="3840" data-end="4012">Leftover baked salmon can be stored in an airtight container in the refrigerator for up to 2 days. Reheat gently in the oven at 275°F (135°C) to keep it tender and moist.</p>
-<h3 data-start="4014" data-end="4039">Freezing Baked Salmon</h3>
-<p data-start="4041" data-end="4260">If you want to save your salmon for later, wrap it tightly in foil or plastic wrap and place it in a freezer-safe bag. Baked salmon can last up to 1 month in the freezer. Thaw overnight in the fridge before reheating.</p>
-<h2 data-start="4262" data-end="4275">Conclusion</h2>
-<p data-start="4277" data-end="4786">This quick baked salmon recipe has become one of my go-to weeknight meals. It’s simple, healthy, and packed with flavor thanks to garlic, herbs, and a hint of lemon. Baking salmon keeps it tender while making cleanup effortless. Whether you’re cooking for yourself, family, or friends, this recipe is guaranteed to impress. With minimal ingredients and maximum flavor, you can enjoy a gourmet-style dinner any night of the week. So preheat your oven, grab your fillets, and let’s bake some delicious salmon!</p>
             ]]>
         </content>
     </entry>
