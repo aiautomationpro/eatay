@@ -3,12 +3,139 @@
     <title>EatYay</title>
     <link href="https://eatyay.com/feed.xml" rel="self" />
     <link href="https://eatyay.com" />
-    <updated>2026-02-14T11:24:23+06:00</updated>
+    <updated>2026-02-14T11:42:39+06:00</updated>
     <author>
         <name>Mia Gomez</name>
     </author>
     <id>https://eatyay.com</id>
 
+    <entry>
+        <title>Easy Blueberry Banana Bread Recipe</title>
+        <author>
+            <name>Mia Gomez</name>
+        </author>
+        <link href="https://eatyay.com/blueberry-banana-bread/"/>
+        <id>https://eatyay.com/blueberry-banana-bread/</id>
+        <media:content url="https://eatyay.com/media/posts/60/Easy-Blueberry-Banana-Bread-Recipe.png" medium="image" />
+            <category term="Bread"/>
+
+        <updated>2026-02-14T11:42:39+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://eatyay.com/media/posts/60/Easy-Blueberry-Banana-Bread-Recipe.png" alt="" />
+                    Craving a quick, comforting treat? This Easy Blueberry Banana Bread Recipe is my go-to for busy mornings or a sweet&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eatyay.com/media/posts/60/Easy-Blueberry-Banana-Bread-Recipe.png" class="type:primaryImage" alt="" /></p>
+                <p data-start="148" data-end="547">Craving a quick, comforting treat? This <strong data-start="188" data-end="226">Easy Blueberry Banana Bread Recipe</strong> is my go-to for busy mornings or a sweet afternoon snack. Moist, fluffy, and bursting with ripe bananas and juicy blueberries, it’s a crowd-pleaser every time. Whether you’re baking for your family or prepping for a brunch, this recipe is simple enough to whip up even on a busy day—no complicated techniques required.</p>
+<h2 data-start="549" data-end="570">Ingredients List</h2>
+<h3 data-start="572" data-end="593">Dry Ingredients</h3>
+<ul data-start="595" data-end="751">
+<li data-start="595" data-end="666">
+<p data-start="597" data-end="666">2 cups all-purpose flour, plus 1 tablespoon to coat the blueberries</p>
+</li>
+<li data-start="667" data-end="695">
+<p data-start="669" data-end="695">3/4 teaspoon baking soda</p>
+</li>
+<li data-start="696" data-end="724">
+<p data-start="698" data-end="724">1/2 teaspoon kosher salt</p>
+</li>
+<li data-start="725" data-end="751">
+<p data-start="727" data-end="751">1 cup granulated sugar</p>
+</li>
+</ul>
+<h3 data-start="753" data-end="774">Wet Ingredients</h3>
+<ul data-start="776" data-end="938">
+<li data-start="776" data-end="804">
+<p data-start="778" data-end="804">1/4 cup butter, softened</p>
+</li>
+<li data-start="805" data-end="854">
+<p data-start="807" data-end="854">1 cup mashed ripe bananas (about 2-3 bananas)</p>
+</li>
+<li data-start="855" data-end="871">
+<p data-start="857" data-end="871">2 large eggs</p>
+</li>
+<li data-start="872" data-end="907">
+<p data-start="874" data-end="907">1/3 cup vanilla or plain yogurt</p>
+</li>
+<li data-start="908" data-end="938">
+<p data-start="910" data-end="938">1 teaspoon vanilla extract</p>
+</li>
+</ul>
+<h3 data-start="940" data-end="951">Fruit</h3>
+<ul data-start="953" data-end="1057">
+<li data-start="953" data-end="1057">
+<p data-start="955" data-end="1057">1 1/2 cups fresh blueberries (plus extra for topping; can use frozen, but the bread may streak blue)</p>
+</li>
+</ul>
+<h3 data-start="1059" data-end="1070">Other</h3>
+<ul data-start="1072" data-end="1089">
+<li data-start="1072" data-end="1089">
+<p data-start="1074" data-end="1089">Cooking spray</p>
+</li>
+</ul>
+<h2 data-start="1091" data-end="1118">Required Kitchen Tools</h2>
+<p data-start="1120" data-end="1204">Baking this blueberry banana bread is so much easier with the right tools on hand:</p>
+<ol data-start="1206" data-end="1690">
+<li data-start="1206" data-end="1321">
+<p data-start="1209" data-end="1321"><strong data-start="1209" data-end="1225">Mixing Bowls</strong> – I use one for dry ingredients and another for wet ingredients to keep everything organized.</p>
+</li>
+<li data-start="1322" data-end="1448">
+<p data-start="1325" data-end="1448"><strong data-start="1325" data-end="1354">Hand Mixer or Stand Mixer</strong> – For creaming butter and sugar smoothly. You can also mix by hand, but a mixer saves time.</p>
+</li>
+<li data-start="1449" data-end="1525">
+<p data-start="1452" data-end="1525"><strong data-start="1452" data-end="1463">Spatula</strong> – Perfect for folding in blueberries without smashing them.</p>
+</li>
+<li data-start="1526" data-end="1603">
+<p data-start="1529" data-end="1603"><strong data-start="1529" data-end="1550">9x5 Inch Loaf Pan</strong> – The ideal size for even baking and easy slicing.</p>
+</li>
+<li data-start="1604" data-end="1690">
+<p data-start="1607" data-end="1690"><strong data-start="1607" data-end="1637">Parchment Paper (optional)</strong> – Makes removing the loaf from the pan super easy.</p>
+</li>
+</ol>
+<p data-start="1692" data-end="1768">Having these tools ready makes baking this bread a stress-free experience.</p>
+<h2 data-start="1770" data-end="1795">Preparing the Batter</h2>
+<h3 data-start="1797" data-end="1829">Mixing the Dry Ingredients</h3>
+<p data-start="1831" data-end="2077">In a large bowl, I whisk together the flour, baking soda, and salt. Coating the blueberries with a tablespoon of flour helps them stay suspended in the batter instead of sinking to the bottom—trust me, this little trick makes a huge difference.</p>
+<h3 data-start="2079" data-end="2110">Creaming Butter and Sugar</h3>
+<p data-start="2112" data-end="2314">In another bowl, I beat the softened butter and sugar together until light and fluffy. Then I mix in the mashed bananas, eggs, yogurt, and vanilla extract until everything is smooth and well combined.</p>
+<h3 data-start="2316" data-end="2355">Combining Wet and Dry Ingredients</h3>
+<p data-start="2357" data-end="2629">I gently fold the dry ingredients into the wet ingredients using a spatula. I make sure not to overmix—the batter should be just combined so the bread stays tender. Then, I carefully fold in the blueberries, keeping them whole for that sweet, juicy burst in every slice.</p>
+<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/60/Easy-Blueberry-Banana-Bread-Recipe-1.jpeg" alt="" width="672" height="1008" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/60/responsive/Easy-Blueberry-Banana-Bread-Recipe-1-xs.jpeg 300w ,https://eatyay.com/media/posts/60/responsive/Easy-Blueberry-Banana-Bread-Recipe-1-sm.jpeg 480w ,https://eatyay.com/media/posts/60/responsive/Easy-Blueberry-Banana-Bread-Recipe-1-md.jpeg 768w"></figure>
+<h2 data-start="2631" data-end="2659">Baking the Banana Bread</h2>
+<h3 data-start="2661" data-end="2684">Preparing the Pan</h3>
+<p data-start="2686" data-end="2855">I preheat my oven to 350°F (175°C) and lightly spray my 9x5 inch loaf pan with cooking spray. For an extra-safe release, I sometimes line the pan with parchment paper.</p>
+<h3 data-start="2857" data-end="2877">Baking Process</h3>
+<p data-start="2879" data-end="3170">I pour the batter into the prepared pan and smooth the top with a spatula. I like to sprinkle a few extra blueberries on top—they look beautiful and give a hint of the delicious fruit inside. The bread bakes for 55-65 minutes, or until a toothpick inserted into the center comes out clean.</p>
+<h3 data-start="3172" data-end="3185">Cooling</h3>
+<p data-start="3187" data-end="3362">Once baked, I let the bread cool in the pan for about 10 minutes, then transfer it to a wire rack to cool completely. This ensures the bread slices cleanly without sticking.</p>
+<h2 data-start="3364" data-end="3391">Serving and Decoration</h2>
+<h3 data-start="3393" data-end="3417">Suggested Toppings</h3>
+<p data-start="3419" data-end="3475">While this bread is perfect on its own, I love adding:</p>
+<ul data-start="3477" data-end="3677">
+<li data-start="3477" data-end="3542">
+<p data-start="3479" data-end="3542">A light dusting of powdered sugar for a simple, elegant touch</p>
+</li>
+<li data-start="3543" data-end="3608">
+<p data-start="3545" data-end="3608">A smear of butter or cream cheese for breakfast or snack time</p>
+</li>
+<li data-start="3609" data-end="3677">
+<p data-start="3611" data-end="3677">A drizzle of honey or maple syrup for an extra hint of sweetness</p>
+</li>
+</ul>
+<p data-start="3679" data-end="3794">Each slice is soft, fruity, and perfectly moist—perfect for morning toast, an afternoon snack, or even a dessert.</p>
+<h2 data-start="3796" data-end="3821">Storage Instructions</h2>
+<h3 data-start="3823" data-end="3852">Keeping the Bread Fresh</h3>
+<p data-start="3854" data-end="3989">I store leftover bread in an airtight container at room temperature for up to 3 days. It stays soft and flavorful without drying out.</p>
+<h3 data-start="3991" data-end="4015">Freezing the Bread</h3>
+<p data-start="4017" data-end="4247">For longer storage, I slice the bread and wrap each piece in plastic wrap, then place them in a freezer-safe bag. Frozen banana bread lasts up to 2 months and can be thawed at room temperature or quickly warmed in the microwave.</p>
+<h2 data-start="4249" data-end="4264">Conclusion</h2>
+<p data-start="4266" data-end="4711">This <strong data-start="4271" data-end="4302">Easy Blueberry Banana Bread</strong> is one of my favorite recipes for a reason. The combination of sweet bananas and juicy blueberries creates a loaf that’s irresistibly moist and bursting with flavor. Simple, quick, and endlessly satisfying, this bread is perfect for beginners and seasoned bakers alike. With a few kitchen essentials, some ripe bananas, and fresh blueberries, you can have a loaf ready to enjoy in under an hour—every time.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Easy lemon crinkle cookies Recipes</title>
         <author>
@@ -1357,202 +1484,6 @@
 </article>
 </div>
 <div class="pointer-events-none h-px w-px absolute bottom-0" aria-hidden="true" data-edge="true"> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Easy Crispy Cheddar Chicken Recipe</title>
-        <author>
-            <name>Mia Gomez</name>
-        </author>
-        <link href="https://eatyay.com/crispy-cheddar-chicken/"/>
-        <id>https://eatyay.com/crispy-cheddar-chicken/</id>
-        <media:content url="https://eatyay.com/media/posts/50/Easy-Crispy-Cheddar-Chicken-Recipe-1-2.jpeg" medium="image" />
-            <category term="Dinner"/>
-
-        <updated>2026-02-14T09:43:12+06:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://eatyay.com/media/posts/50/Easy-Crispy-Cheddar-Chicken-Recipe-1-2.jpeg" alt="" />
-                    Craving a comforting dinner that’s crispy on the outside, juicy on the inside, and packed with cheesy flavor? This Easy&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://eatyay.com/media/posts/50/Easy-Crispy-Cheddar-Chicken-Recipe-1-2.jpeg" class="type:primaryImage" alt="" /></p>
-                <p data-start="0" data-end="410">Craving a comforting dinner that’s crispy on the outside, juicy on the inside, and packed with cheesy flavor? This <strong data-start="115" data-end="153">Easy Crispy Cheddar Chicken Recipe</strong> is one of my all-time favorite weeknight meals. Tender chicken breasts are coated in buttery crushed crackers, loaded with sharp cheddar cheese, and baked to golden perfection. Then I drizzle everything with a rich, creamy sauce that takes it over the top.</p>
-<p data-start="412" data-end="543">If you’re looking for a family-friendly baked chicken recipe that’s simple, budget-friendly, and absolutely delicious — this is it!</p>
-<h2 data-start="550" data-end="569">Ingredients List</h2>
-<h3 data-start="571" data-end="594">Chicken Ingredients</h3>
-<ul data-start="596" data-end="792">
-<li data-start="596" data-end="623">
-<p data-start="598" data-end="623">4 large chicken breasts</p>
-</li>
-<li data-start="624" data-end="660">
-<p data-start="626" data-end="660">2 sleeves Ritz crackers, crushed</p>
-</li>
-<li data-start="661" data-end="682">
-<p data-start="663" data-end="682">1/4 teaspoon salt</p>
-</li>
-<li data-start="683" data-end="712">
-<p data-start="685" data-end="712">1/8 teaspoon black pepper</p>
-</li>
-<li data-start="713" data-end="729">
-<p data-start="715" data-end="729">1/2 cup milk</p>
-</li>
-<li data-start="730" data-end="763">
-<p data-start="732" data-end="763">3 cups cheddar cheese, grated</p>
-</li>
-<li data-start="764" data-end="792">
-<p data-start="766" data-end="792">1 teaspoon dried parsley</p>
-</li>
-</ul>
-<h3 data-start="794" data-end="815">Sauce Ingredients</h3>
-<ul data-start="817" data-end="913">
-<li data-start="817" data-end="859">
-<p data-start="819" data-end="859">1 (10 ounce) can cream of chicken soup</p>
-</li>
-<li data-start="860" data-end="888">
-<p data-start="862" data-end="888">2 tablespoons sour cream</p>
-</li>
-<li data-start="889" data-end="913">
-<p data-start="891" data-end="913">2 tablespoons butter</p>
-</li>
-</ul>
-<h2 data-start="920" data-end="945">Required Kitchen Tools</h2>
-<p data-start="947" data-end="1027">When I make this crispy cheddar chicken, I keep these basic kitchen tools handy:</p>
-<ol data-start="1029" data-end="1382">
-<li data-start="1029" data-end="1098">
-<p data-start="1032" data-end="1098"><strong data-start="1032" data-end="1048">Mixing Bowls</strong> – For crushing crackers and preparing coatings.</p>
-</li>
-<li data-start="1099" data-end="1190">
-<p data-start="1102" data-end="1190"><strong data-start="1102" data-end="1132">Meat Mallet or Rolling Pin</strong> – To slightly flatten chicken breasts for even cooking.</p>
-</li>
-<li data-start="1191" data-end="1262">
-<p data-start="1194" data-end="1262"><strong data-start="1194" data-end="1214">9x13 Baking Dish</strong> – Perfect size for baking the chicken evenly.</p>
-</li>
-<li data-start="1263" data-end="1314">
-<p data-start="1266" data-end="1314"><strong data-start="1266" data-end="1278">Saucepan</strong> – For preparing the creamy sauce.</p>
-</li>
-<li data-start="1315" data-end="1382">
-<p data-start="1318" data-end="1382"><strong data-start="1318" data-end="1335">Aluminum Foil</strong> – Helps keep the chicken moist while baking.</p>
-</li>
-</ol>
-<p data-start="1384" data-end="1475">Having everything ready before starting makes this easy baked chicken recipe even smoother.</p>
-<h2 data-start="1482" data-end="1504">Chicken Preparation</h2>
-<p data-start="1506" data-end="1615">Preparing the chicken properly ensures it stays juicy inside while getting that crispy cheddar crust outside.</p>
-<h3 data-start="1617" data-end="1642">Preparing the Coating</h3>
-<p data-start="1644" data-end="1728">First, I preheat my oven to <strong data-start="1672" data-end="1689">375°F (190°C)</strong> and lightly grease a 9x13 baking dish.</p>
-<p data-start="1730" data-end="1894">Then I crush the Ritz crackers into fine crumbs (but not powder — I like a little texture). I mix the cracker crumbs with salt, pepper, and dried parsley in a bowl.</p>
-<p data-start="1896" data-end="1914">In separate bowls:</p>
-<ul data-start="1915" data-end="2000">
-<li data-start="1915" data-end="1947">
-<p data-start="1917" data-end="1947">I pour the milk into one bowl.</p>
-</li>
-<li data-start="1948" data-end="2000">
-<p data-start="1950" data-end="2000">I place the grated cheddar cheese in another bowl.</p>
-</li>
-</ul>
-<h3 data-start="2002" data-end="2025">Coating the Chicken</h3>
-<p data-start="2027" data-end="2107">If the chicken breasts are very thick, I gently pound them to an even thickness.</p>
-<p data-start="2109" data-end="2151">Then I follow this simple coating process:</p>
-<ol data-start="2153" data-end="2337">
-<li data-start="2153" data-end="2194">
-<p data-start="2156" data-end="2194">Dip each chicken breast into the milk.</p>
-</li>
-<li data-start="2195" data-end="2268">
-<p data-start="2198" data-end="2268">Press it into the grated cheddar cheese, making sure it’s well coated.</p>
-</li>
-<li data-start="2269" data-end="2337">
-<p data-start="2272" data-end="2337">Finally, press the cheesy chicken into the cracker crumb mixture.</p>
-</li>
-</ol>
-<p data-start="2339" data-end="2401">I gently press the crumbs onto the chicken so they stick well.</p>
-<p data-start="2403" data-end="2465">Once coated, I place each piece into the prepared baking dish.</p>
-<h2 data-start="2472" data-end="2508">Baking the Crispy Cheddar Chicken</h2>
-<p data-start="2510" data-end="2608">To keep the chicken tender, I loosely cover the baking dish with foil and bake for <strong data-start="2593" data-end="2607">35 minutes</strong>.</p>
-<p data-start="2610" data-end="2692">After that, I remove the foil and bake for an additional <strong data-start="2667" data-end="2684">10–15 minutes</strong>, until:</p>
-<ul data-start="2694" data-end="2790">
-<li data-start="2694" data-end="2721">
-<p data-start="2696" data-end="2721">The top is golden brown</p>
-</li>
-<li data-start="2722" data-end="2747">
-<p data-start="2724" data-end="2747">The coating is crispy</p>
-</li>
-<li data-start="2748" data-end="2790">
-<p data-start="2750" data-end="2790">The internal temperature reaches 165°F</p>
-</li>
-</ul>
-<p data-start="2792" data-end="2870">This two-step baking method ensures juicy chicken with a crispy cheddar crust.</p>
-<h2 data-start="2877" data-end="2903">Making the Creamy Sauce</h2>
-<p data-start="2905" data-end="2957">While the chicken bakes, I prepare the creamy sauce.</p>
-<h3 data-start="2959" data-end="2983">How I Make the Sauce</h3>
-<ol data-start="2985" data-end="3182">
-<li data-start="2985" data-end="3097">
-<p data-start="2988" data-end="3036">In a small saucepan over medium heat, I combine:</p>
-<ul data-start="3040" data-end="3097">
-<li data-start="3040" data-end="3065">
-<p data-start="3042" data-end="3065">Cream of chicken soup</p>
-</li>
-<li data-start="3069" data-end="3083">
-<p data-start="3071" data-end="3083">Sour cream</p>
-</li>
-<li data-start="3087" data-end="3097">
-<p data-start="3089" data-end="3097">Butter</p>
-</li>
-</ul>
-</li>
-<li data-start="3099" data-end="3182">
-<p data-start="3102" data-end="3182">I stir continuously until everything melts together into a smooth, creamy sauce.</p>
-</li>
-</ol>
-<p data-start="3184" data-end="3238">I keep it warm on low heat until the chicken is ready.</p>
-<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/50/Easy-Crispy-Cheddar-Chicken-Recipe-1.jpeg" alt="" width="976" height="1056" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/50/responsive/Easy-Crispy-Cheddar-Chicken-Recipe-1-xs.jpeg 300w ,https://eatyay.com/media/posts/50/responsive/Easy-Crispy-Cheddar-Chicken-Recipe-1-sm.jpeg 480w ,https://eatyay.com/media/posts/50/responsive/Easy-Crispy-Cheddar-Chicken-Recipe-1-md.jpeg 768w"></figure>
-<h2 data-start="3245" data-end="3270">Serving and Garnishing</h2>
-<p data-start="3272" data-end="3441">Once the chicken comes out of the oven, I spoon the warm creamy sauce generously over each piece. The crispy crust paired with the rich sauce is absolutely irresistible.</p>
-<h3 data-start="3443" data-end="3466">Serving Suggestions</h3>
-<p data-start="3468" data-end="3521">I love serving this easy crispy cheddar chicken with:</p>
-<ul data-start="3523" data-end="3605">
-<li data-start="3523" data-end="3542">
-<p data-start="3525" data-end="3542">Mashed potatoes</p>
-</li>
-<li data-start="3543" data-end="3563">
-<p data-start="3545" data-end="3563">Steamed broccoli</p>
-</li>
-<li data-start="3564" data-end="3587">
-<p data-start="3566" data-end="3587">Roasted green beans</p>
-</li>
-<li data-start="3588" data-end="3605">
-<p data-start="3590" data-end="3605">Buttered rice</p>
-</li>
-</ul>
-<p data-start="3607" data-end="3681">A sprinkle of fresh parsley on top adds a nice pop of color and freshness.</p>
-<h2 data-start="3688" data-end="3711">Storage Instructions</h2>
-<h3 data-start="3713" data-end="3739">How to Store Leftovers</h3>
-<p data-start="3741" data-end="3862">If I have leftovers (which isn’t often!), I store them in an airtight container in the refrigerator for up to <strong data-start="3851" data-end="3861">3 days</strong>.</p>
-<h3 data-start="3864" data-end="3882">Reheating Tips</h3>
-<p data-start="3884" data-end="4038">To keep the crust crispy, I reheat the chicken in the oven at <strong data-start="3946" data-end="3955">350°F</strong> for about 15 minutes. Microwaving works too, but the coating won’t stay as crispy.</p>
-<h3 data-start="4040" data-end="4065">Freezing Instructions</h3>
-<p data-start="4067" data-end="4242">You can freeze this baked cheddar chicken for up to <strong data-start="4119" data-end="4131">2 months</strong>. I recommend freezing without the sauce for best texture. Thaw overnight in the refrigerator before reheating.</p>
-<h2 data-start="4249" data-end="4299">Expert Tips for the Best Crispy Cheddar Chicken</h2>
-<ul data-start="4301" data-end="4526">
-<li data-start="4301" data-end="4366">
-<p data-start="4303" data-end="4366"><strong data-start="4303" data-end="4333">Use freshly grated cheddar</strong> for better melting and flavor.</p>
-</li>
-<li data-start="4367" data-end="4425">
-<p data-start="4369" data-end="4425">Don’t skip the foil step — it keeps the chicken moist.</p>
-</li>
-<li data-start="4426" data-end="4466">
-<p data-start="4428" data-end="4466">Avoid overbaking to prevent dryness.</p>
-</li>
-<li data-start="4467" data-end="4526">
-<p data-start="4469" data-end="4526">For extra crispiness, broil for 1–2 minutes at the end.</p>
-</li>
-</ul>
-<h2 data-start="4955" data-end="4968">Conclusion</h2>
-<p data-start="4970" data-end="5228">This Easy Crispy Cheddar Chicken Recipe is the perfect comfort food dinner. It’s crunchy, cheesy, creamy, and incredibly satisfying. I love how simple the ingredients are, yet the final result tastes like something you’d order at a cozy homestyle restaurant.</p>
-<p data-start="5230" data-end="5415">If you’re looking for a baked cheddar chicken recipe that’s guaranteed to impress your family while staying easy enough for a busy weeknight — this one deserves a spot in your rotation.</p>
-<p data-start="5417" data-end="5524" data-is-last-node="" data-is-only-node="">Now it’s your turn — grab those chicken breasts and let’s make something crispy and delicious tonight! 🍗</p>
             ]]>
         </content>
     </entry>
