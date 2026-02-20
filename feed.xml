@@ -3,7 +3,7 @@
     <title>EatYay</title>
     <link href="https://eatyay.com/feed.xml" rel="self" />
     <link href="https://eatyay.com" />
-    <updated>2026-02-20T10:33:48+06:00</updated>
+    <updated>2026-02-20T11:06:19+06:00</updated>
     <author>
         <name>Mia Gomez</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://eatyay.com/king-cake-recipe/"/>
         <id>https://eatyay.com/king-cake-recipe/</id>
         <media:content url="https://eatyay.com/media/posts/86/king-cake-recipe.png" medium="image" />
-            <category term="Desserts"/>
+            <category term="Cakes"/>
 
         <updated>2026-02-20T10:33:48+06:00</updated>
             <summary type="html">
