@@ -3,12 +3,176 @@
     <title>EatYay</title>
     <link href="https://eatyay.com/feed.xml" rel="self" />
     <link href="https://eatyay.com" />
-    <updated>2026-02-23T12:03:01+06:00</updated>
+    <updated>2026-02-23T12:31:04+06:00</updated>
     <author>
         <name>Mia Gomez</name>
     </author>
     <id>https://eatyay.com</id>
 
+    <entry>
+        <title>Quick And Easy Mango Slaw Recipe</title>
+        <author>
+            <name>Mia Gomez</name>
+        </author>
+        <link href="https://eatyay.com/quick-and-easy-mango-slaw-recipe/"/>
+        <id>https://eatyay.com/quick-and-easy-mango-slaw-recipe/</id>
+        <media:content url="https://eatyay.com/media/posts/95/Quick-And-Easy-Mango-Slaw-Recipe.png" medium="image" />
+            <category term="Salad"/>
+
+        <updated>2026-02-23T12:31:04+06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://eatyay.com/media/posts/95/Quick-And-Easy-Mango-Slaw-Recipe.png" alt="" />
+                    Craving something fresh, vibrant, and bursting with tropical flavor? This Quick and Easy Mango Slaw Recipe is my go-to side&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eatyay.com/media/posts/95/Quick-And-Easy-Mango-Slaw-Recipe.png" class="type:primaryImage" alt="" /></p>
+                <div class="flex flex-col text-sm pb-25">
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-WEB:cd337704-04f1-4936-abc4-6a1f33fd5b92-1" data-testid="conversation-turn-4" data-scroll-anchor="true" data-turn="assistant">
+<div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" dir="auto" data-message-author-role="assistant" data-message-id="61fb19f9-c26c-4776-87fa-c7785a1697dc" data-message-model-slug="gpt-5-2">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="0" data-end="327">Craving something fresh, vibrant, and bursting with tropical flavor? This <strong data-start="74" data-end="110">Quick and Easy Mango Slaw Recipe</strong> is my go-to side dish when I want something colorful, crunchy, and ready in minutes. It’s sweet, tangy, slightly savory, and pairs beautifully with grilled dishes, tacos, seafood, or even as a light lunch on its own.</p>
+<p data-start="329" data-end="496">Made with juicy ripe mangoes, crisp cabbage, and a zesty lime dressing, this refreshing mango slaw is the perfect summer salad that comes together in under 15 minutes.</p>
+<h2 data-start="503" data-end="522">Ingredients List</h2>
+<h3 data-start="524" data-end="550">Fresh Slaw Ingredients</h3>
+<ul data-start="552" data-end="763">
+<li data-start="552" data-end="588">
+<p data-start="554" data-end="588">2 ripe mangoes, peeled and diced</p>
+</li>
+<li data-start="589" data-end="630">
+<p data-start="591" data-end="630">2 cups green cabbage, finely shredded</p>
+</li>
+<li data-start="631" data-end="657">
+<p data-start="633" data-end="657">1 large carrot, grated</p>
+</li>
+<li data-start="658" data-end="694">
+<p data-start="660" data-end="694">1 red bell pepper, thinly sliced</p>
+</li>
+<li data-start="695" data-end="729">
+<p data-start="697" data-end="729">¼ cup red onion, thinly sliced</p>
+</li>
+<li data-start="730" data-end="763">
+<p data-start="732" data-end="763">¼ cup fresh cilantro, chopped</p>
+</li>
+</ul>
+<h3 data-start="765" data-end="789">Dressing Ingredients</h3>
+<ul data-start="791" data-end="922">
+<li data-start="791" data-end="825">
+<p data-start="793" data-end="825">3 tablespoons fresh lime juice</p>
+</li>
+<li data-start="826" data-end="864">
+<p data-start="828" data-end="864">2 tablespoons honey or maple syrup</p>
+</li>
+<li data-start="865" data-end="892">
+<p data-start="867" data-end="892">1 tablespoon sesame oil</p>
+</li>
+<li data-start="893" data-end="922">
+<p data-start="895" data-end="922">Salt and pepper, to taste</p>
+</li>
+</ul>
+<h2 data-start="929" data-end="954">Required Kitchen Tools</h2>
+<p data-start="956" data-end="1035">When preparing this quick mango slaw, you only need a few simple kitchen tools:</p>
+<ol data-start="1037" data-end="1458">
+<li data-start="1037" data-end="1121">
+<p data-start="1040" data-end="1121"><strong data-start="1040" data-end="1062">Sharp Chef’s Knife</strong>: For cleanly dicing mangoes and slicing vegetables thinly.</p>
+</li>
+<li data-start="1122" data-end="1196">
+<p data-start="1125" data-end="1196"><strong data-start="1125" data-end="1142">Cutting Board</strong>: A stable surface for prepping all fresh ingredients.</p>
+</li>
+<li data-start="1197" data-end="1262">
+<p data-start="1200" data-end="1262"><strong data-start="1200" data-end="1232">Box Grater or Food Processor</strong>: To grate the carrot quickly.</p>
+</li>
+<li data-start="1263" data-end="1327">
+<p data-start="1266" data-end="1327"><strong data-start="1266" data-end="1287">Large Mixing Bowl</strong>: Essential for tossing the slaw evenly.</p>
+</li>
+<li data-start="1328" data-end="1389">
+<p data-start="1331" data-end="1389"><strong data-start="1331" data-end="1354">Small Whisk or Fork</strong>: For mixing the dressing smoothly.</p>
+</li>
+<li data-start="1390" data-end="1458">
+<p data-start="1393" data-end="1458"><strong data-start="1393" data-end="1413">Measuring Spoons</strong>: To ensure balanced flavors in the dressing.</p>
+</li>
+</ol>
+<p data-start="1460" data-end="1522">Having these ready makes the process effortless and efficient.</p>
+<h2 data-start="1529" data-end="1563">Preparing the Fresh Ingredients</h2>
+<p data-start="1565" data-end="1633">The key to a flavorful and crunchy mango slaw is proper preparation.</p>
+<h3 data-start="1635" data-end="1656">Cutting the Mango</h3>
+<p data-start="1658" data-end="1878">I start by peeling the ripe mangoes and carefully slicing the flesh away from the pit. Then, I dice them into small bite-sized cubes. Using ripe but firm mangoes ensures the slaw holds its texture without becoming mushy.</p>
+<h3 data-start="1880" data-end="1920">Shredding and Slicing the Vegetables</h3>
+<p data-start="1922" data-end="2050">Next, I finely shred the green cabbage to create a light, airy base. Thin slices allow the dressing to coat every strand evenly.</p>
+<p data-start="2052" data-end="2298">I grate the carrot for natural sweetness and vibrant color. The red bell pepper and red onion are sliced thinly to maintain a crisp texture without overpowering the slaw. Finally, I chop the fresh cilantro to add brightness and herbaceous flavor.</p>
+<h2 data-start="2305" data-end="2338">Making the Honey Lime Dressing</h2>
+<p data-start="2340" data-end="2432">The dressing is what transforms this from a simple cabbage salad into a tropical mango slaw.</p>
+<p data-start="2434" data-end="2468">In a small bowl, I whisk together:</p>
+<ul data-start="2470" data-end="2572">
+<li data-start="2470" data-end="2490">
+<p data-start="2472" data-end="2490">Fresh lime juice</p>
+</li>
+<li data-start="2491" data-end="2537">
+<p data-start="2493" data-end="2537">Honey (or maple syrup for a vegan version)</p>
+</li>
+<li data-start="2538" data-end="2552">
+<p data-start="2540" data-end="2552">Sesame oil</p>
+</li>
+<li data-start="2553" data-end="2572">
+<p data-start="2555" data-end="2572">Salt and pepper</p>
+</li>
+</ul>
+<p data-start="2574" data-end="2753">The lime juice adds acidity, the honey balances sweetness, and the sesame oil brings subtle depth and nuttiness. I whisk until everything is well combined and slightly emulsified.</p>
+<h2 data-start="2760" data-end="2788">Assembling the Mango Slaw</h2>
+<p data-start="2790" data-end="2934">Once all the ingredients are prepped, I add the cabbage, carrot, red bell pepper, red onion, cilantro, and diced mango into a large mixing bowl.</p>
+<p data-start="2936" data-end="3080">I pour the dressing over the top and gently toss everything together until evenly coated. I’m careful not to mash the mango pieces while mixing.</p>
+<p data-start="3082" data-end="3216">At this stage, I taste and adjust seasoning if needed — sometimes adding a pinch more salt or an extra squeeze of lime for brightness.</p>
+<p data-start="3218" data-end="3389">For best flavor, I let the slaw sit for 10–15 minutes before serving. This allows the vegetables to slightly soften and absorb the dressing while still maintaining crunch.</p>
+<figure class="post__image"><img loading="lazy"  src="https://eatyay.com/media/posts/95/Quick-And-Easy-Mango-Slaw-Recipe-1.png" alt="" width="912" height="1136" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://eatyay.com/media/posts/95/responsive/Quick-And-Easy-Mango-Slaw-Recipe-1-xs.png 300w ,https://eatyay.com/media/posts/95/responsive/Quick-And-Easy-Mango-Slaw-Recipe-1-sm.png 480w ,https://eatyay.com/media/posts/95/responsive/Quick-And-Easy-Mango-Slaw-Recipe-1-md.png 768w"></figure>
+<h2 data-start="3396" data-end="3429">Serving and Presentation Ideas</h2>
+<p data-start="3431" data-end="3496">This quick mango slaw is incredibly versatile. I love serving it:</p>
+<ul data-start="3498" data-end="3665">
+<li data-start="3498" data-end="3535">
+<p data-start="3500" data-end="3535">Alongside grilled chicken or fish</p>
+</li>
+<li data-start="3536" data-end="3567">
+<p data-start="3538" data-end="3567">As a topping for fish tacos</p>
+</li>
+<li data-start="3568" data-end="3599">
+<p data-start="3570" data-end="3599">With pulled pork sandwiches</p>
+</li>
+<li data-start="3600" data-end="3633">
+<p data-start="3602" data-end="3633">As a refreshing BBQ side dish</p>
+</li>
+<li data-start="3634" data-end="3665">
+<p data-start="3636" data-end="3665">Inside wraps or grain bowls</p>
+</li>
+</ul>
+<p data-start="3667" data-end="3836">For extra texture, I sometimes sprinkle toasted sesame seeds or crushed peanuts on top. If I want a little heat, I add thinly sliced jalapeño or a pinch of chili flakes.</p>
+<p data-start="3838" data-end="3952">The bright yellow mango, vibrant orange carrot, and deep red pepper make this dish visually stunning on any table.</p>
+<h2 data-start="3959" data-end="3982">Storage Instructions</h2>
+<h3 data-start="3984" data-end="4016">How to Keep Mango Slaw Fresh</h3>
+<p data-start="4018" data-end="4192">I store leftover mango slaw in an airtight container in the refrigerator for up to 2 days. The cabbage helps maintain structure, but the mango will soften slightly over time.</p>
+<p data-start="4194" data-end="4342">If making ahead for a gathering, I recommend storing the dressing separately and tossing everything together just before serving for maximum crunch.</p>
+<p data-start="4344" data-end="4437">Freezing is not recommended, as the fresh vegetables and mango will lose their crisp texture.</p>
+<h2 data-start="4444" data-end="4457">Conclusion</h2>
+<p data-start="4459" data-end="4693">This Quick and Easy Mango Slaw Recipe is proof that simple ingredients can create bold, refreshing flavors. It’s sweet, tangy, crunchy, and ready in minutes — making it the perfect healthy side dish for busy days or summer gatherings.</p>
+<p data-start="4695" data-end="4934">I love how customizable it is, whether I’m making it vegan with maple syrup or adding a bit of spice for heat. With minimal prep and maximum flavor, this mango slaw has become one of my favorite fresh salad recipes to make again and again.</p>
+<p data-start="4936" data-end="5086" data-is-last-node="" data-is-only-node="">If you’re looking for a vibrant, easy mango cabbage slaw that delivers both flavor and texture, this recipe is one you’ll want to keep on repeat. 🥭🥗</p>
+</div>
+</div>
+</div>
+</div>
+<div class="z-0 flex min-h-[46px] justify-start"> </div>
+</div>
+</div>
+</article>
+</div>
+<div class="pointer-events-none h-px w-px absolute bottom-0" aria-hidden="true" data-edge="true"> </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>All-clad D3 3-Ply Stainless Steel Fry Pan With Lid 10 Inch</title>
         <author>
@@ -1551,108 +1715,6 @@
 <p>Making this homemade King Cake recipe brings the spirit of Mardi Gras straight into my kitchen. With its soft, enriched dough, buttery cinnamon filling, and tangy cream cheese glaze, every bite is festive and comforting.</p>
 <p>I love how simple ingredients come together to create something so celebratory and beautiful. Whether you’re honoring New Orleans tradition or just craving a sweet cinnamon treat, this King Cake is guaranteed to impress.</p>
 <p>Now it’s your turn — roll up your sleeves and let the good times roll! 🎭🎂</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Oxo Good Grips Non-stick Pro Ceramic Coated Metal Bakeware</title>
-        <author>
-            <name>Mia Gomez</name>
-        </author>
-        <link href="https://eatyay.com/oxo-good-grips-non-stick-pro-ceramic-coated-metal-bakeware/"/>
-        <id>https://eatyay.com/oxo-good-grips-non-stick-pro-ceramic-coated-metal-bakeware/</id>
-        <media:content url="https://eatyay.com/media/posts/85/Untitled-design-2.jpg" medium="image" />
-            <category term="Buying Guides"/>
-
-        <updated>2026-02-19T17:45:49+06:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://eatyay.com/media/posts/85/Untitled-design-2.jpg" alt="" />
-                    If you’re serious about baking—or just love a beautifully made kitchen tool—the OXO Good Grips 9” Round Cake Pan in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://eatyay.com/media/posts/85/Untitled-design-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p data-start="121" data-end="412">If you’re serious about baking—or just love a beautifully made kitchen tool—the <strong data-start="201" data-end="251">OXO Good Grips 9” Round Cake Pan in Storm Blue</strong> deserves a place in your kitchen. Combining durability, elegant design, and exceptional performance, this pan delivers professional-level results right at home.</p>
-<p data-start="414" data-end="474">Let’s take a closer look at why this bakeware stands out. </p>
-<h2 data-start="481" data-end="525">✨ Premium Quality That You Can See &amp; Feel</h2>
-<p data-start="527" data-end="585">From the moment you hold it, you’ll notice the difference.</p>
-<ul data-start="587" data-end="798">
-<li data-start="587" data-end="667">
-<p data-start="589" data-end="667"><strong data-start="589" data-end="621">Heavy-gauge aluminized steel</strong> construction for superior heat distribution</p>
-</li>
-<li data-start="668" data-end="729">
-<p data-start="670" data-end="729"><strong data-start="670" data-end="699">Ceramic non-stick coating</strong> for effortless food release</p>
-</li>
-<li data-start="730" data-end="798">
-<p data-start="732" data-end="798">Beautiful <strong data-start="742" data-end="765">Storm Blue exterior</strong> for a modern kitchen aesthetic</p>
-</li>
-</ul>
-<p data-start="800" data-end="862">This isn’t just a cake pan—it’s a long-term baking investment.</p>
-<div style="text-align: center; margin: 30px 0;"><a href="https://amzn.to/4aFe3Vc" target="_blank" style="background-color: #e8a317; color: #ffffff; padding: 18px 36px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px; display: inline-block; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" rel="noopener"> 🛒 Check Price on Amazon </a></div>
-<h2 data-start="869" data-end="909">🎂 Consistent, Even Baking Every Time</h2>
-<p data-start="911" data-end="999">One of the most impressive features of this pan is its <strong data-start="966" data-end="986">zero-draft walls</strong>. That means:</p>
-<p data-start="1001" data-end="1118">✔ Straight, uniform cake layers<br data-start="1032" data-end="1035">✔ Even heat circulation<br data-start="1058" data-end="1061">✔ Perfect browning thanks to the light interior coating</p>
-<p data-start="1120" data-end="1192">No more domed tops or uneven edges. Just bakery-quality results at home.</p>
-<h2 data-start="1199" data-end="1239">🧼 Effortless Cleaning (Yes, Really!)</h2>
-<p data-start="1241" data-end="1314">Thanks to its advanced <strong data-start="1264" data-end="1313">non-stick ceramic coating (made without PFAS)</strong>:</p>
-<ul data-start="1316" data-end="1402">
-<li data-start="1316" data-end="1341">
-<p data-start="1318" data-end="1341">Cakes release cleanly</p>
-</li>
-<li data-start="1342" data-end="1365">
-<p data-start="1344" data-end="1365">Less residue sticks</p>
-</li>
-<li data-start="1366" data-end="1402">
-<p data-start="1368" data-end="1402">Cleanup is quick and stress-free</p>
-</li>
-</ul>
-<p data-start="1404" data-end="1494">Plus, the <strong data-start="1414" data-end="1442">rounded interior corners</strong> prevent batter buildup, making washing even easier.</p>
-<h2 data-start="1501" data-end="1538">💪 Built for Strength &amp; Durability</h2>
-<p data-start="1540" data-end="1569">This pan is designed to last:</p>
-<ul data-start="1571" data-end="1751">
-<li data-start="1571" data-end="1632">
-<p data-start="1573" data-end="1632"><strong data-start="1573" data-end="1596">Square-rolled edges</strong> add structure and prevent warping</p>
-</li>
-<li data-start="1633" data-end="1694">
-<p data-start="1635" data-end="1694">Scratch, stain, corrosion, and abrasion resistant surface</p>
-</li>
-<li data-start="1695" data-end="1751">
-<p data-start="1697" data-end="1751">Expanded rim handles for safe and easy oven handling</p>
-</li>
-</ul>
-<p data-start="1753" data-end="1796">You get strength without sacrificing style.</p>
-<div style="text-align: center; margin: 30px 0;"><a href="https://amzn.to/4aFe3Vc" target="_blank" style="background-color: #e8a317; color: #ffffff; padding: 18px 36px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px; display: inline-block; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" rel="noopener"> 🛒 Check Price on Amazon </a></div>
-<h2 data-start="1803" data-end="1841">📏 Perfect Size for Everyday Baking</h2>
-<p data-start="1843" data-end="1931"><strong data-start="1843" data-end="1867">Internal Dimensions:</strong><br data-start="1867" data-end="1870">9.00 in x 9.00 in x 1.96 in<br data-start="1897" data-end="1900">(22.86 cm x 22.86 cm x 4.98 cm)</p>
-<p data-start="1933" data-end="2023"><strong data-start="1933" data-end="1957">External Dimensions:</strong><br data-start="1957" data-end="1960">10.10 in x 10.10 in x 2.03 in<br data-start="1989" data-end="1992">(25.65 cm x 25.65 cm x 5.16 cm)</p>
-<p data-start="2025" data-end="2035">Ideal for:</p>
-<ul data-start="2037" data-end="2134">
-<li data-start="2037" data-end="2058">
-<p data-start="2039" data-end="2058">Birthday cakes 🎉</p>
-</li>
-<li data-start="2059" data-end="2074">
-<p data-start="2061" data-end="2074">Layer cakes</p>
-</li>
-<li data-start="2075" data-end="2091">
-<p data-start="2077" data-end="2091">Coffee cakes</p>
-</li>
-<li data-start="2092" data-end="2107">
-<p data-start="2094" data-end="2107">Cheesecakes</p>
-</li>
-<li data-start="2108" data-end="2134">
-<p data-start="2110" data-end="2134">Brownie-style desserts</p>
-</li>
-</ul>
-<div style="text-align: center; margin: 30px 0;"><a href="https://amzn.to/4aFe3Vc" target="_blank" style="background-color: #e8a317; color: #ffffff; padding: 18px 36px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px; display: inline-block; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" rel="noopener"> 🛒 Check Price on Amazon </a></div>
-<h2 data-start="2141" data-end="2170">🌿 Health-Conscious &amp; Safe</h2>
-<p data-start="2172" data-end="2281">The <strong data-start="2176" data-end="2225">nonstick ceramic coating is made without PFAS</strong>, giving you peace of mind while baking for your family.</p>
-<h1 data-start="2288" data-end="2305">⭐ Final Verdict</h1>
-<p data-start="2307" data-end="2394">The <strong data-start="2311" data-end="2376">OXO Good Grips Non-Stick Pro Ceramic Coated 9” Round Cake Pan</strong> checks every box:</p>
-<p data-start="2396" data-end="2516">✔ Beautiful design<br data-start="2414" data-end="2417">✔ Exceptional durability<br data-start="2441" data-end="2444">✔ Even baking performance<br data-start="2469" data-end="2472">✔ Easy cleanup<br data-start="2486" data-end="2489">✔ Safe, PFAS-free coating</p>
-<p data-start="2518" data-end="2637">Whether you're a beginner baker or a seasoned pro, this pan delivers reliable, professional-quality results every time.</p>
-<p data-start="2639" data-end="2716">If you want cakes that look as good as they taste—this is the pan to get. 🍰✨</p>
             ]]>
         </content>
     </entry>
